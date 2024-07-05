@@ -1,6 +1,0 @@
-dash-vtk==0.0.9
-gunicorn
-dash
-dash-bootstrap-components
-vtk
-numpy

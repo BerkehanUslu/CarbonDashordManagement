@@ -1,4 +1,0 @@
-channels:
-  - plotly
-  - defaults
-  - conda-forge

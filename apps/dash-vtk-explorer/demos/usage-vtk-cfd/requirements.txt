@@ -1,7 +1,0 @@
-# If you skipped `pip install -e ../../`, the package below will be retrieved from pypi:
-dash >= 1.19.0
-dash-vtk
-dash-bootstrap-components
-pyvista
-numpy
-vtk

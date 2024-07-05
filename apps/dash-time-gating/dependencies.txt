@@ -1,8 +1,0 @@
-scikit-rf
-dash
-dash-table
-numpy
-matplotlib
-plotly
-Flask-Caching
-gunicorn

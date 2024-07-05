@@ -1,5 +1,0 @@
-# dash is required to call `build:py`
-dash
-dash-bootstrap-components
-dash_avs_ui-0.0.1.tar.gz
-gunicorn
