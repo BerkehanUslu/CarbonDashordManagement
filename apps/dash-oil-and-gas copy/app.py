@@ -234,8 +234,9 @@ app.layout = html.Div(
                             className="row container-display",
                         ),
                         html.Div(
-                            [dcc.Graph(id="count_graph")],
-                            id="countGraphContainer",
+                            # [dcc.Graph(id="count_graph")],
+                            [dcc.Graph(id="main_graph")],
+                            id="mainGraphContainer",
                             className="pretty_container",
                         ),
                     ],
@@ -248,8 +249,9 @@ app.layout = html.Div(
         html.Div(
             [
                 html.Div(
-                    [dcc.Graph(id="main_graph")],
-                    className="pretty_container seven columns",
+                    # [dcc.Graph(id="main_graph")],
+                    [dcc.Graph(id="count_graph")],
+                    className="pretty_container seven columns ",
                 ),
                 html.Div(
                     [dcc.Graph(id="individual_graph")],

@@ -61,11 +61,11 @@ body {
 #individual_graph,
 #aggregate_graph {
   width: calc(100% - 30px);
-  position: absolute;
+  /* position: absolute; */
 }
 
 #count_graph {
-  position: absolute;
+  /* position: absolute; */
   height: calc(100% - 30px);
   width: calc(100% - 30px);
 }
