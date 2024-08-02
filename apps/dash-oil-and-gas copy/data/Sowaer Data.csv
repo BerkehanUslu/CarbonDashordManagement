@@ -1,0 +1,1741 @@
+Scénario;Years;Parametre;Aéroport;Emission
+Business As Usual;2022;AWAC;Secteur aéroportuaire wallon (SOWAER);102 301,85
+Business As Usual;2023;AWAC;Secteur aéroportuaire wallon (SOWAER);105 412,78
+Business As Usual;2024;AWAC;Secteur aéroportuaire wallon (SOWAER);108 624,47
+Business As Usual;2025;AWAC;Secteur aéroportuaire wallon (SOWAER);111 995,46
+Business As Usual;2026;AWAC;Secteur aéroportuaire wallon (SOWAER);115 505,16
+Business As Usual;2027;AWAC;Secteur aéroportuaire wallon (SOWAER);119 144,04
+Business As Usual;2028;AWAC;Secteur aéroportuaire wallon (SOWAER);122 918,20
+Business As Usual;2029;AWAC;Secteur aéroportuaire wallon (SOWAER);126 832,18
+Business As Usual;2030;AWAC;Secteur aéroportuaire wallon (SOWAER);130 891,20
+Business As Usual;2031;AWAC;Secteur aéroportuaire wallon (SOWAER);135 100,71
+Business As Usual;2032;AWAC;Secteur aéroportuaire wallon (SOWAER);139 467,31
+Business As Usual;2033;AWAC;Secteur aéroportuaire wallon (SOWAER);143 997,78
+Business As Usual;2034;AWAC;Secteur aéroportuaire wallon (SOWAER);148 698,01
+Business As Usual;2035;AWAC;Secteur aéroportuaire wallon (SOWAER);153 576,30
+Business As Usual;2036;AWAC;Secteur aéroportuaire wallon (SOWAER);158 638,73
+Business As Usual;2037;AWAC;Secteur aéroportuaire wallon (SOWAER);163 893,92
+Business As Usual;2038;AWAC;Secteur aéroportuaire wallon (SOWAER);169 350,13
+Business As Usual;2039;AWAC;Secteur aéroportuaire wallon (SOWAER);175 014,47
+Business As Usual;2040;AWAC;Secteur aéroportuaire wallon (SOWAER);180 895,42
+Business As Usual;2041;AWAC;Secteur aéroportuaire wallon (SOWAER);186 986,86
+Business As Usual;2042;AWAC;Secteur aéroportuaire wallon (SOWAER);193 296,70
+Business As Usual;2043;AWAC;Secteur aéroportuaire wallon (SOWAER);199 833,18
+Business As Usual;2044;AWAC;Secteur aéroportuaire wallon (SOWAER);206 604,82
+Business As Usual;2045;AWAC;Secteur aéroportuaire wallon (SOWAER);213 620,52
+Business As Usual;2046;AWAC;Secteur aéroportuaire wallon (SOWAER);220 889,49
+Business As Usual;2047;AWAC;Secteur aéroportuaire wallon (SOWAER);228 421,32
+Business As Usual;2048;AWAC;Secteur aéroportuaire wallon (SOWAER);236 225,97
+Business As Usual;2049;AWAC;Secteur aéroportuaire wallon (SOWAER);244 288,55
+Business As Usual;2050;AWAC;Secteur aéroportuaire wallon (SOWAER);246 669,02
+S0: Référence;2022;AWAC;Secteur aéroportuaire wallon (SOWAER);102 301,85
+S0: Référence;2023;AWAC;Secteur aéroportuaire wallon (SOWAER);100 998,78
+S0: Référence;2024;AWAC;Secteur aéroportuaire wallon (SOWAER);98 929,57
+S0: Référence;2025;AWAC;Secteur aéroportuaire wallon (SOWAER);96 435,23
+S0: Référence;2026;AWAC;Secteur aéroportuaire wallon (SOWAER);93 881,57
+S0: Référence;2027;AWAC;Secteur aéroportuaire wallon (SOWAER);91 506,96
+S0: Référence;2028;AWAC;Secteur aéroportuaire wallon (SOWAER);89 486,00
+S0: Référence;2029;AWAC;Secteur aéroportuaire wallon (SOWAER);87 850,31
+S0: Référence;2030;AWAC;Secteur aéroportuaire wallon (SOWAER);86 634,42
+S0: Référence;2031;AWAC;Secteur aéroportuaire wallon (SOWAER);85 885,78
+S0: Référence;2032;AWAC;Secteur aéroportuaire wallon (SOWAER);85 801,37
+S0: Référence;2033;AWAC;Secteur aéroportuaire wallon (SOWAER);86 342,36
+S0: Référence;2034;AWAC;Secteur aéroportuaire wallon (SOWAER);87 425,37
+S0: Référence;2035;AWAC;Secteur aéroportuaire wallon (SOWAER);88 984,92
+S0: Référence;2036;AWAC;Secteur aéroportuaire wallon (SOWAER);90 966,06
+S0: Référence;2037;AWAC;Secteur aéroportuaire wallon (SOWAER);93 326,91
+S0: Référence;2038;AWAC;Secteur aéroportuaire wallon (SOWAER);95 029,13
+S0: Référence;2039;AWAC;Secteur aéroportuaire wallon (SOWAER);95 999,14
+S0: Référence;2040;AWAC;Secteur aéroportuaire wallon (SOWAER);96 197,47
+S0: Référence;2041;AWAC;Secteur aéroportuaire wallon (SOWAER);95 601,30
+S0: Référence;2042;AWAC;Secteur aéroportuaire wallon (SOWAER);94 230,05
+S0: Référence;2043;AWAC;Secteur aéroportuaire wallon (SOWAER);92 127,44
+S0: Référence;2044;AWAC;Secteur aéroportuaire wallon (SOWAER);89 357,12
+S0: Référence;2045;AWAC;Secteur aéroportuaire wallon (SOWAER);85 997,89
+S0: Référence;2046;AWAC;Secteur aéroportuaire wallon (SOWAER);82 139,08
+S0: Référence;2047;AWAC;Secteur aéroportuaire wallon (SOWAER);77 876,05
+S0: Référence;2048;AWAC;Secteur aéroportuaire wallon (SOWAER);73 306,11
+S0: Référence;2049;AWAC;Secteur aéroportuaire wallon (SOWAER);68 524,93
+S0: Référence;2050;AWAC;Secteur aéroportuaire wallon (SOWAER);60 670,04
+S1: Rupture technologique;2022;AWAC;Secteur aéroportuaire wallon (SOWAER);102 301,85
+S1: Rupture technologique;2023;AWAC;Secteur aéroportuaire wallon (SOWAER);100 908,52
+S1: Rupture technologique;2024;AWAC;Secteur aéroportuaire wallon (SOWAER);98 409,21
+S1: Rupture technologique;2025;AWAC;Secteur aéroportuaire wallon (SOWAER);93 417,98
+S1: Rupture technologique;2026;AWAC;Secteur aéroportuaire wallon (SOWAER);88 294,50
+S1: Rupture technologique;2027;AWAC;Secteur aéroportuaire wallon (SOWAER);83 319,73
+S1: Rupture technologique;2028;AWAC;Secteur aéroportuaire wallon (SOWAER);78 664,95
+S1: Rupture technologique;2029;AWAC;Secteur aéroportuaire wallon (SOWAER);74 370,58
+S1: Rupture technologique;2030;AWAC;Secteur aéroportuaire wallon (SOWAER);67 614,73
+S1: Rupture technologique;2031;AWAC;Secteur aéroportuaire wallon (SOWAER);61 631,02
+S1: Rupture technologique;2032;AWAC;Secteur aéroportuaire wallon (SOWAER);56 455,51
+S1: Rupture technologique;2033;AWAC;Secteur aéroportuaire wallon (SOWAER);51 944,77
+S1: Rupture technologique;2034;AWAC;Secteur aéroportuaire wallon (SOWAER);47 951,08
+S1: Rupture technologique;2035;AWAC;Secteur aéroportuaire wallon (SOWAER);37 712,29
+S1: Rupture technologique;2036;AWAC;Secteur aéroportuaire wallon (SOWAER);29 669,59
+S1: Rupture technologique;2037;AWAC;Secteur aéroportuaire wallon (SOWAER);23 348,70
+S1: Rupture technologique;2038;AWAC;Secteur aéroportuaire wallon (SOWAER);18 170,30
+S1: Rupture technologique;2039;AWAC;Secteur aéroportuaire wallon (SOWAER);13 977,82
+S1: Rupture technologique;2040;AWAC;Secteur aéroportuaire wallon (SOWAER);8 742,69
+S1: Rupture technologique;2041;AWAC;Secteur aéroportuaire wallon (SOWAER);5 397,10
+S1: Rupture technologique;2042;AWAC;Secteur aéroportuaire wallon (SOWAER);3 287,92
+S1: Rupture technologique;2043;AWAC;Secteur aéroportuaire wallon (SOWAER);1 976,46
+S1: Rupture technologique;2044;AWAC;Secteur aéroportuaire wallon (SOWAER);1 172,30
+S1: Rupture technologique;2045;AWAC;Secteur aéroportuaire wallon (SOWAER);599,56
+S1: Rupture technologique;2046;AWAC;Secteur aéroportuaire wallon (SOWAER);302,33
+S1: Rupture technologique;2047;AWAC;Secteur aéroportuaire wallon (SOWAER);150,32
+S1: Rupture technologique;2048;AWAC;Secteur aéroportuaire wallon (SOWAER);73,70
+S1: Rupture technologique;2049;AWAC;Secteur aéroportuaire wallon (SOWAER);35,63
+S1: Rupture technologique;2050;AWAC;Secteur aéroportuaire wallon (SOWAER);6,64
+S3: Tous leviers;2022;AWAC;Secteur aéroportuaire wallon (SOWAER);102 301,85
+S3: Tous leviers;2023;AWAC;Secteur aéroportuaire wallon (SOWAER);100 322,95
+S3: Tous leviers;2024;AWAC;Secteur aéroportuaire wallon (SOWAER);97 319,60
+S3: Tous leviers;2025;AWAC;Secteur aéroportuaire wallon (SOWAER);91 985,48
+S3: Tous leviers;2026;AWAC;Secteur aéroportuaire wallon (SOWAER);86 618,56
+S3: Tous leviers;2027;AWAC;Secteur aéroportuaire wallon (SOWAER);81 450,82
+S3: Tous leviers;2028;AWAC;Secteur aéroportuaire wallon (SOWAER);76 612,18
+S3: Tous leviers;2029;AWAC;Secteur aéroportuaire wallon (SOWAER);72 119,03
+S3: Tous leviers;2030;AWAC;Secteur aéroportuaire wallon (SOWAER);65 242,13
+S3: Tous leviers;2031;AWAC;Secteur aéroportuaire wallon (SOWAER);59 126,61
+S3: Tous leviers;2032;AWAC;Secteur aéroportuaire wallon (SOWAER);53 716,18
+S3: Tous leviers;2033;AWAC;Secteur aéroportuaire wallon (SOWAER);48 979,66
+S3: Tous leviers;2034;AWAC;Secteur aéroportuaire wallon (SOWAER);44 853,11
+S3: Tous leviers;2035;AWAC;Secteur aéroportuaire wallon (SOWAER);35 106,55
+S3: Tous leviers;2036;AWAC;Secteur aéroportuaire wallon (SOWAER);27 532,30
+S3: Tous leviers;2037;AWAC;Secteur aéroportuaire wallon (SOWAER);21 594,85
+S3: Tous leviers;2038;AWAC;Secteur aéroportuaire wallon (SOWAER);16 763,09
+S3: Tous leviers;2039;AWAC;Secteur aéroportuaire wallon (SOWAER);12 874,63
+S3: Tous leviers;2040;AWAC;Secteur aéroportuaire wallon (SOWAER);8 059,08
+S3: Tous leviers;2041;AWAC;Secteur aéroportuaire wallon (SOWAER);4 986,31
+S3: Tous leviers;2042;AWAC;Secteur aéroportuaire wallon (SOWAER);3 049,01
+S3: Tous leviers;2043;AWAC;Secteur aéroportuaire wallon (SOWAER);1 842,43
+S3: Tous leviers;2044;AWAC;Secteur aéroportuaire wallon (SOWAER);1 100,18
+S3: Tous leviers;2045;AWAC;Secteur aéroportuaire wallon (SOWAER);568,76
+S3: Tous leviers;2046;AWAC;Secteur aéroportuaire wallon (SOWAER);290,53
+S3: Tous leviers;2047;AWAC;Secteur aéroportuaire wallon (SOWAER);146,67
+S3: Tous leviers;2048;AWAC;Secteur aéroportuaire wallon (SOWAER);73,18
+S3: Tous leviers;2049;AWAC;Secteur aéroportuaire wallon (SOWAER);36,10
+S3: Tous leviers;2050;AWAC;Secteur aéroportuaire wallon (SOWAER);8,87
+S2: Sobriété;2022;AWAC;Secteur aéroportuaire wallon (SOWAER);102 301,85
+S2: Sobriété;2023;AWAC;Secteur aéroportuaire wallon (SOWAER);98 981,97
+S2: Sobriété;2024;AWAC;Secteur aéroportuaire wallon (SOWAER);94 769,87
+S2: Sobriété;2025;AWAC;Secteur aéroportuaire wallon (SOWAER);88 347,79
+S2: Sobriété;2026;AWAC;Secteur aéroportuaire wallon (SOWAER);82 011,44
+S2: Sobriété;2027;AWAC;Secteur aéroportuaire wallon (SOWAER);75 965,96
+S2: Sobriété;2028;AWAC;Secteur aéroportuaire wallon (SOWAER);70 313,82
+S2: Sobriété;2029;AWAC;Secteur aéroportuaire wallon (SOWAER);65 056,91
+S2: Sobriété;2030;AWAC;Secteur aéroportuaire wallon (SOWAER);57 710,51
+S2: Sobriété;2031;AWAC;Secteur aéroportuaire wallon (SOWAER);51 220,18
+S2: Sobriété;2032;AWAC;Secteur aéroportuaire wallon (SOWAER);45 519,40
+S2: Sobriété;2033;AWAC;Secteur aéroportuaire wallon (SOWAER);40 532,06
+S2: Sobriété;2034;AWAC;Secteur aéroportuaire wallon (SOWAER);36 194,60
+S2: Sobriété;2035;AWAC;Secteur aéroportuaire wallon (SOWAER);27 515,01
+S2: Sobriété;2036;AWAC;Secteur aéroportuaire wallon (SOWAER);20 969,09
+S2: Sobriété;2037;AWAC;Secteur aéroportuaire wallon (SOWAER);16 006,37
+S2: Sobriété;2038;AWAC;Secteur aéroportuaire wallon (SOWAER);12 091,89
+S2: Sobriété;2039;AWAC;Secteur aéroportuaire wallon (SOWAER);9 030,68
+S2: Sobriété;2040;AWAC;Secteur aéroportuaire wallon (SOWAER);5 448,27
+S2: Sobriété;2041;AWAC;Secteur aéroportuaire wallon (SOWAER);3 241,75
+S2: Sobriété;2042;AWAC;Secteur aéroportuaire wallon (SOWAER);1 901,72
+S2: Sobriété;2043;AWAC;Secteur aéroportuaire wallon (SOWAER);1 099,64
+S2: Sobriété;2044;AWAC;Secteur aéroportuaire wallon (SOWAER);626,62
+S2: Sobriété;2045;AWAC;Secteur aéroportuaire wallon (SOWAER);306,25
+S2: Sobriété;2046;AWAC;Secteur aéroportuaire wallon (SOWAER);147,45
+S2: Sobriété;2047;AWAC;Secteur aéroportuaire wallon (SOWAER);69,99
+S2: Sobriété;2048;AWAC;Secteur aéroportuaire wallon (SOWAER);32,83
+S2: Sobriété;2049;AWAC;Secteur aéroportuaire wallon (SOWAER);15,29
+S2: Sobriété;2050;AWAC;Secteur aéroportuaire wallon (SOWAER);3,57
+Business As Usual;2022;AWAC;Liège;50 574,01
+Business As Usual;2023;AWAC;Liège;52 443,48
+Business As Usual;2024;AWAC;Liège;54 383,90
+Business As Usual;2025;AWAC;Liège;56 453,11
+Business As Usual;2026;AWAC;Liège;58 629,80
+Business As Usual;2027;AWAC;Liège;60 903,67
+Business As Usual;2028;AWAC;Liège;63 280,07
+Business As Usual;2029;AWAC;Liège;65 762,73
+Business As Usual;2030;AWAC;Liège;68 356,08
+Business As Usual;2031;AWAC;Liège;71 064,74
+Business As Usual;2032;AWAC;Liège;73 894,49
+Business As Usual;2033;AWAC;Liège;76 851,21
+Business As Usual;2034;AWAC;Liège;79 939,91
+Business As Usual;2035;AWAC;Liège;83 168,01
+Business As Usual;2036;AWAC;Liège;86 540,64
+Business As Usual;2037;AWAC;Liège;90 065,48
+Business As Usual;2038;AWAC;Liège;93 749,81
+Business As Usual;2039;AWAC;Liège;97 599,74
+Business As Usual;2040;AWAC;Liège;101 622,73
+Business As Usual;2041;AWAC;Liège;105 811,63
+Business As Usual;2042;AWAC;Liège;110 173,27
+Business As Usual;2043;AWAC;Liège;114 714,78
+Business As Usual;2044;AWAC;Liège;119 443,59
+Business As Usual;2045;AWAC;Liège;124 367,41
+Business As Usual;2046;AWAC;Liège;129 494,31
+Business As Usual;2047;AWAC;Liège;134 832,66
+Business As Usual;2048;AWAC;Liège;140 391,18
+Business As Usual;2049;AWAC;Liège;146 178,96
+Business As Usual;2050;AWAC;Liège;146 178,96
+S0: Référence;2022;AWAC;Liège;50 574,01
+S0: Référence;2023;AWAC;Liège;52 254,35
+S0: Référence;2024;AWAC;Liège;53 940,19
+S0: Référence;2025;AWAC;Liège;55 742,41
+S0: Référence;2026;AWAC;Liège;57 698,63
+S0: Référence;2027;AWAC;Liège;59 820,61
+S0: Référence;2028;AWAC;Liège;62 101,22
+S0: Référence;2029;AWAC;Liège;64 516,23
+S0: Référence;2030;AWAC;Liège;67 049,10
+S0: Référence;2031;AWAC;Liège;69 695,94
+S0: Référence;2032;AWAC;Liège;72 460,94
+S0: Référence;2033;AWAC;Liège;75 349,85
+S0: Référence;2034;AWAC;Liège;78 367,54
+S0: Référence;2035;AWAC;Liège;81 521,27
+S0: Référence;2036;AWAC;Liège;84 816,01
+S0: Référence;2037;AWAC;Liège;88 259,27
+S0: Référence;2038;AWAC;Liège;90 853,39
+S0: Référence;2039;AWAC;Liège;92 558,34
+S0: Référence;2040;AWAC;Liège;93 362,25
+S0: Référence;2041;AWAC;Liège;93 265,08
+S0: Référence;2042;AWAC;Liège;92 305,00
+S0: Référence;2043;AWAC;Liège;90 541,20
+S0: Référence;2044;AWAC;Liège;88 050,06
+S0: Référence;2045;AWAC;Liège;84 920,87
+S0: Référence;2046;AWAC;Liège;81 251,62
+S0: Référence;2047;AWAC;Liège;77 144,78
+S0: Référence;2048;AWAC;Liège;72 703,54
+S0: Référence;2049;AWAC;Liège;68 028,42
+S0: Référence;2050;AWAC;Liège;60 260,91
+S1: Rupture technologique;2022;AWAC;Liège;50 574,01
+S1: Rupture technologique;2023;AWAC;Liège;52 254,35
+S1: Rupture technologique;2024;AWAC;Liège;53 788,80
+S1: Rupture technologique;2025;AWAC;Liège;54 207,42
+S1: Rupture technologique;2026;AWAC;Liège;54 551,93
+S1: Rupture technologique;2027;AWAC;Liège;54 824,82
+S1: Rupture technologique;2028;AWAC;Liège;55 010,86
+S1: Rupture technologique;2029;AWAC;Liège;55 078,79
+S1: Rupture technologique;2030;AWAC;Liège;52 802,94
+S1: Rupture technologique;2031;AWAC;Liège;50 477,45
+S1: Rupture technologique;2032;AWAC;Liège;48 115,89
+S1: Rupture technologique;2033;AWAC;Liège;45 732,82
+S1: Rupture technologique;2034;AWAC;Liège;43 341,60
+S1: Rupture technologique;2035;AWAC;Liège;34 888,56
+S1: Rupture technologique;2036;AWAC;Liège;27 987,62
+S1: Rupture technologique;2037;AWAC;Liège;22 374,48
+S1: Rupture technologique;2038;AWAC;Liège;17 621,57
+S1: Rupture technologique;2039;AWAC;Liège;13 677,27
+S1: Rupture technologique;2040;AWAC;Liège;8 612,99
+S1: Rupture technologique;2041;AWAC;Liège;5 343,25
+S1: Rupture technologique;2042;AWAC;Liège;3 266,46
+S1: Rupture technologique;2043;AWAC;Liège;1 968,27
+S1: Rupture technologique;2044;AWAC;Liège;1 169,31
+S1: Rupture technologique;2045;AWAC;Liège;598,66
+S1: Rupture technologique;2046;AWAC;Liège;302,07
+S1: Rupture technologique;2047;AWAC;Liège;150,25
+S1: Rupture technologique;2048;AWAC;Liège;73,68
+S1: Rupture technologique;2049;AWAC;Liège;35,63
+S1: Rupture technologique;2050;AWAC;Liège;6,64
+S3: Tous leviers;2022;AWAC;Liège;50 574,01
+S3: Tous leviers;2023;AWAC;Liège;51 683,88
+S3: Tous leviers;2024;AWAC;Liège;52 657,72
+S3: Tous leviers;2025;AWAC;Liège;52 536,59
+S3: Tous leviers;2026;AWAC;Liège;52 371,58
+S3: Tous leviers;2027;AWAC;Liège;52 170,69
+S3: Tous leviers;2028;AWAC;Liège;51 920,50
+S3: Tous leviers;2029;AWAC;Liège;51 593,72
+S3: Tous leviers;2030;AWAC;Liège;49 108,14
+S3: Tous leviers;2031;AWAC;Liège;46 642,10
+S3: Tous leviers;2032;AWAC;Liège;44 203,68
+S3: Tous leviers;2033;AWAC;Liège;41 801,55
+S3: Tous leviers;2034;AWAC;Liège;39 443,28
+S3: Tous leviers;2035;AWAC;Liège;31 614,56
+S3: Tous leviers;2036;AWAC;Liège;25 273,96
+S3: Tous leviers;2037;AWAC;Liège;20 152,63
+S3: Tous leviers;2038;AWAC;Liège;15 851,73
+S3: Tous leviers;2039;AWAC;Liège;12 303,38
+S3: Tous leviers;2040;AWAC;Liège;7 756,65
+S3: Tous leviers;2041;AWAC;Liège;4 823,99
+S3: Tous leviers;2042;AWAC;Liège;2 960,18
+S3: Tous leviers;2043;AWAC;Liège;1 792,67
+S3: Tous leviers;2044;AWAC;Liège;1 071,61
+S3: Tous leviers;2045;AWAC;Liège;553,18
+S3: Tous leviers;2046;AWAC;Liège;281,81
+S3: Tous leviers;2047;AWAC;Liège;141,70
+S3: Tous leviers;2048;AWAC;Liège;70,34
+S3: Tous leviers;2049;AWAC;Liège;34,47
+S3: Tous leviers;2050;AWAC;Liège;8,11
+S2: Sobriété;2022;AWAC;Liège;50 574,01
+S2: Sobriété;2023;AWAC;Liège;50 786,86
+S2: Sobriété;2024;AWAC;Liège;50 845,20
+S2: Sobriété;2025;AWAC;Liège;49 804,62
+S2: Sobriété;2026;AWAC;Liège;48 730,98
+S2: Sobriété;2027;AWAC;Liège;47 639,80
+S2: Sobriété;2028;AWAC;Liège;46 520,29
+S2: Sobriété;2029;AWAC;Liège;45 351,60
+S2: Sobriété;2030;AWAC;Liège;42 308,03
+S2: Sobriété;2031;AWAC;Liège;39 378,40
+S2: Sobriété;2032;AWAC;Liège;36 566,68
+S2: Sobriété;2033;AWAC;Liège;33 876,84
+S2: Sobriété;2034;AWAC;Liège;31 311,66
+S2: Sobriété;2035;AWAC;Liège;24 489,51
+S2: Sobriété;2036;AWAC;Liège;19 100,82
+S2: Sobriété;2037;AWAC;Liège;14 856,58
+S2: Sobriété;2038;AWAC;Liège;11 386,64
+S2: Sobriété;2039;AWAC;Liège;8 599,53
+S2: Sobriété;2040;AWAC;Liège;5 236,45
+S2: Sobriété;2041;AWAC;Liège;3 139,32
+S2: Sobriété;2042;AWAC;Liège;1 852,90
+S2: Sobriété;2043;AWAC;Liège;1 076,63
+S2: Sobriété;2044;AWAC;Liège;615,83
+S2: Sobriété;2045;AWAC;Liège;301,75
+S2: Sobriété;2046;AWAC;Liège;145,43
+S2: Sobriété;2047;AWAC;Liège;68,94
+S2: Sobriété;2048;AWAC;Liège;32,14
+S2: Sobriété;2049;AWAC;Liège;14,73
+S2: Sobriété;2050;AWAC;Liège;3,07
+Business As Usual;2022;AWAC;Charleroi;51 727,84
+Business As Usual;2023;AWAC;Charleroi;52 969,31
+Business As Usual;2024;AWAC;Charleroi;54 240,57
+Business As Usual;2025;AWAC;Charleroi;55 542,34
+Business As Usual;2026;AWAC;Charleroi;56 875,36
+Business As Usual;2027;AWAC;Charleroi;58 240,37
+Business As Usual;2028;AWAC;Charleroi;59 638,14
+Business As Usual;2029;AWAC;Charleroi;61 069,45
+Business As Usual;2030;AWAC;Charleroi;62 535,12
+Business As Usual;2031;AWAC;Charleroi;64 035,96
+Business As Usual;2032;AWAC;Charleroi;65 572,83
+Business As Usual;2033;AWAC;Charleroi;67 146,57
+Business As Usual;2034;AWAC;Charleroi;68 758,09
+Business As Usual;2035;AWAC;Charleroi;70 408,29
+Business As Usual;2036;AWAC;Charleroi;72 098,08
+Business As Usual;2037;AWAC;Charleroi;73 828,44
+Business As Usual;2038;AWAC;Charleroi;75 600,32
+Business As Usual;2039;AWAC;Charleroi;77 414,73
+Business As Usual;2040;AWAC;Charleroi;79 272,68
+Business As Usual;2041;AWAC;Charleroi;81 175,23
+Business As Usual;2042;AWAC;Charleroi;83 123,43
+Business As Usual;2043;AWAC;Charleroi;85 118,39
+Business As Usual;2044;AWAC;Charleroi;87 161,24
+Business As Usual;2045;AWAC;Charleroi;89 253,11
+Business As Usual;2046;AWAC;Charleroi;91 395,18
+Business As Usual;2047;AWAC;Charleroi;93 588,66
+Business As Usual;2048;AWAC;Charleroi;95 834,79
+Business As Usual;2049;AWAC;Charleroi;98 134,83
+Business As Usual;2050;AWAC;Charleroi;100 490,06
+S0: Référence;2022;AWAC;Charleroi;51 727,84
+S0: Référence;2023;AWAC;Charleroi;48 744,42
+S0: Référence;2024;AWAC;Charleroi;44 989,38
+S0: Référence;2025;AWAC;Charleroi;40 692,83
+S0: Référence;2026;AWAC;Charleroi;36 182,94
+S0: Référence;2027;AWAC;Charleroi;31 686,35
+S0: Référence;2028;AWAC;Charleroi;27 384,78
+S0: Référence;2029;AWAC;Charleroi;23 334,08
+S0: Référence;2030;AWAC;Charleroi;19 585,32
+S0: Référence;2031;AWAC;Charleroi;16 189,84
+S0: Référence;2032;AWAC;Charleroi;13 340,43
+S0: Référence;2033;AWAC;Charleroi;10 992,52
+S0: Référence;2034;AWAC;Charleroi;9 057,83
+S0: Référence;2035;AWAC;Charleroi;7 463,65
+S0: Référence;2036;AWAC;Charleroi;6 150,05
+S0: Référence;2037;AWAC;Charleroi;5 067,64
+S0: Référence;2038;AWAC;Charleroi;4 175,74
+S0: Référence;2039;AWAC;Charleroi;3 440,81
+S0: Référence;2040;AWAC;Charleroi;2 835,23
+S0: Référence;2041;AWAC;Charleroi;2 336,23
+S0: Référence;2042;AWAC;Charleroi;1 925,05
+S0: Référence;2043;AWAC;Charleroi;1 586,24
+S0: Référence;2044;AWAC;Charleroi;1 307,06
+S0: Référence;2045;AWAC;Charleroi;1 077,02
+S0: Référence;2046;AWAC;Charleroi;887,46
+S0: Référence;2047;AWAC;Charleroi;731,27
+S0: Référence;2048;AWAC;Charleroi;602,57
+S0: Référence;2049;AWAC;Charleroi;496,52
+S0: Référence;2050;AWAC;Charleroi;409,13
+S1: Rupture technologique;2022;AWAC;Charleroi;51 727,84
+S1: Rupture technologique;2023;AWAC;Charleroi;48 654,16
+S1: Rupture technologique;2024;AWAC;Charleroi;44 620,40
+S1: Rupture technologique;2025;AWAC;Charleroi;39 210,56
+S1: Rupture technologique;2026;AWAC;Charleroi;33 742,57
+S1: Rupture technologique;2027;AWAC;Charleroi;28 494,91
+S1: Rupture technologique;2028;AWAC;Charleroi;23 654,09
+S1: Rupture technologique;2029;AWAC;Charleroi;19 291,79
+S1: Rupture technologique;2030;AWAC;Charleroi;14 811,80
+S1: Rupture technologique;2031;AWAC;Charleroi;11 153,57
+S1: Rupture technologique;2032;AWAC;Charleroi;8 339,62
+S1: Rupture technologique;2033;AWAC;Charleroi;6 211,95
+S1: Rupture technologique;2034;AWAC;Charleroi;4 609,48
+S1: Rupture technologique;2035;AWAC;Charleroi;2 823,73
+S1: Rupture technologique;2036;AWAC;Charleroi;1 681,97
+S1: Rupture technologique;2037;AWAC;Charleroi;974,22
+S1: Rupture technologique;2038;AWAC;Charleroi;548,73
+S1: Rupture technologique;2039;AWAC;Charleroi;300,56
+S1: Rupture technologique;2040;AWAC;Charleroi;129,69
+S1: Rupture technologique;2041;AWAC;Charleroi;53,84
+S1: Rupture technologique;2042;AWAC;Charleroi;21,46
+S1: Rupture technologique;2043;AWAC;Charleroi;8,20
+S1: Rupture technologique;2044;AWAC;Charleroi;2,99
+S1: Rupture technologique;2045;AWAC;Charleroi;0,90
+S1: Rupture technologique;2046;AWAC;Charleroi;0,26
+S1: Rupture technologique;2047;AWAC;Charleroi;0,07
+S1: Rupture technologique;2048;AWAC;Charleroi;0,02
+S1: Rupture technologique;2049;AWAC;Charleroi;0,00
+S1: Rupture technologique;2050;AWAC;Charleroi;0,00
+S3: Tous leviers;2022;AWAC;Charleroi;51 727,84
+S3: Tous leviers;2023;AWAC;Charleroi;48 639,07
+S3: Tous leviers;2024;AWAC;Charleroi;44 661,88
+S3: Tous leviers;2025;AWAC;Charleroi;39 448,89
+S3: Tous leviers;2026;AWAC;Charleroi;34 246,99
+S3: Tous leviers;2027;AWAC;Charleroi;29 280,13
+S3: Tous leviers;2028;AWAC;Charleroi;24 691,69
+S3: Tous leviers;2029;AWAC;Charleroi;20 525,31
+S3: Tous leviers;2030;AWAC;Charleroi;16 133,99
+S3: Tous leviers;2031;AWAC;Charleroi;12 484,51
+S3: Tous leviers;2032;AWAC;Charleroi;9 512,51
+S3: Tous leviers;2033;AWAC;Charleroi;7 178,11
+S3: Tous leviers;2034;AWAC;Charleroi;5 409,83
+S3: Tous leviers;2035;AWAC;Charleroi;3 491,99
+S3: Tous leviers;2036;AWAC;Charleroi;2 258,34
+S3: Tous leviers;2037;AWAC;Charleroi;1 442,22
+S3: Tous leviers;2038;AWAC;Charleroi;911,36
+S3: Tous leviers;2039;AWAC;Charleroi;571,25
+S3: Tous leviers;2040;AWAC;Charleroi;302,43
+S3: Tous leviers;2041;AWAC;Charleroi;162,32
+S3: Tous leviers;2042;AWAC;Charleroi;88,83
+S3: Tous leviers;2043;AWAC;Charleroi;49,76
+S3: Tous leviers;2044;AWAC;Charleroi;28,57
+S3: Tous leviers;2045;AWAC;Charleroi;15,58
+S3: Tous leviers;2046;AWAC;Charleroi;8,72
+S3: Tous leviers;2047;AWAC;Charleroi;4,97
+S3: Tous leviers;2048;AWAC;Charleroi;2,85
+S3: Tous leviers;2049;AWAC;Charleroi;1,63
+S3: Tous leviers;2050;AWAC;Charleroi;0,76
+S2: Sobriété;2022;AWAC;Charleroi;51 727,84
+S2: Sobriété;2023;AWAC;Charleroi;48 195,11
+S2: Sobriété;2024;AWAC;Charleroi;43 924,67
+S2: Sobriété;2025;AWAC;Charleroi;38 543,17
+S2: Sobriété;2026;AWAC;Charleroi;33 280,47
+S2: Sobriété;2027;AWAC;Charleroi;28 326,16
+S2: Sobriété;2028;AWAC;Charleroi;23 793,53
+S2: Sobriété;2029;AWAC;Charleroi;19 705,31
+S2: Sobriété;2030;AWAC;Charleroi;15 402,48
+S2: Sobriété;2031;AWAC;Charleroi;11 841,78
+S2: Sobriété;2032;AWAC;Charleroi;8 952,72
+S2: Sobriété;2033;AWAC;Charleroi;6 655,22
+S2: Sobriété;2034;AWAC;Charleroi;4 882,94
+S2: Sobriété;2035;AWAC;Charleroi;3 025,50
+S2: Sobriété;2036;AWAC;Charleroi;1 868,27
+S2: Sobriété;2037;AWAC;Charleroi;1 149,79
+S2: Sobriété;2038;AWAC;Charleroi;705,24
+S2: Sobriété;2039;AWAC;Charleroi;431,15
+S2: Sobriété;2040;AWAC;Charleroi;211,82
+S2: Sobriété;2041;AWAC;Charleroi;102,43
+S2: Sobriété;2042;AWAC;Charleroi;48,82
+S2: Sobriété;2043;AWAC;Charleroi;23,00
+S2: Sobriété;2044;AWAC;Charleroi;10,79
+S2: Sobriété;2045;AWAC;Charleroi;4,50
+S2: Sobriété;2046;AWAC;Charleroi;2,02
+S2: Sobriété;2047;AWAC;Charleroi;1,06
+S2: Sobriété;2048;AWAC;Charleroi;0,69
+S2: Sobriété;2049;AWAC;Charleroi;0,56
+S2: Sobriété;2050;AWAC;Charleroi;0,50
+Business As Usual;14/07/2022;PACE;Secteur aéroportuaire wallon (SOWAER);2 730,13
+Business As Usual;15/07/2023;PACE;Secteur aéroportuaire wallon (SOWAER);2 816,69
+Business As Usual;15/07/2024;PACE;Secteur aéroportuaire wallon (SOWAER);2 906,33
+Business As Usual;16/07/2025;PACE;Secteur aéroportuaire wallon (SOWAER);2 999,16
+Business As Usual;17/07/2026;PACE;Secteur aéroportuaire wallon (SOWAER);3 095,31
+Business As Usual;18/07/2027;PACE;Secteur aéroportuaire wallon (SOWAER);3 194,91
+Business As Usual;18/07/2028;PACE;Secteur aéroportuaire wallon (SOWAER);3 298,10
+Business As Usual;19/07/2029;PACE;Secteur aéroportuaire wallon (SOWAER);3 405,02
+Business As Usual;20/07/2030;PACE;Secteur aéroportuaire wallon (SOWAER);3 515,81
+Business As Usual;21/07/2031;PACE;Secteur aéroportuaire wallon (SOWAER);3 630,65
+Business As Usual;21/07/2032;PACE;Secteur aéroportuaire wallon (SOWAER);3 749,68
+Business As Usual;22/07/2033;PACE;Secteur aéroportuaire wallon (SOWAER);3 873,07
+Business As Usual;23/07/2034;PACE;Secteur aéroportuaire wallon (SOWAER);4 001,00
+Business As Usual;24/07/2035;PACE;Secteur aéroportuaire wallon (SOWAER);4 133,67
+Business As Usual;24/07/2036;PACE;Secteur aéroportuaire wallon (SOWAER);4 271,24
+Business As Usual;25/07/2037;PACE;Secteur aéroportuaire wallon (SOWAER);4 413,94
+Business As Usual;26/07/2038;PACE;Secteur aéroportuaire wallon (SOWAER);4 561,96
+Business As Usual;27/07/2039;PACE;Secteur aéroportuaire wallon (SOWAER);4 715,52
+Business As Usual;27/07/2040;PACE;Secteur aéroportuaire wallon (SOWAER);4 874,85
+Business As Usual;28/07/2041;PACE;Secteur aéroportuaire wallon (SOWAER);5 040,19
+Business As Usual;29/07/2042;PACE;Secteur aéroportuaire wallon (SOWAER);5 211,78
+Business As Usual;30/07/2043;PACE;Secteur aéroportuaire wallon (SOWAER);5 389,89
+Business As Usual;30/07/2044;PACE;Secteur aéroportuaire wallon (SOWAER);5 574,78
+Business As Usual;31/07/2045;PACE;Secteur aéroportuaire wallon (SOWAER);5 766,74
+Business As Usual;01/08/2046;PACE;Secteur aéroportuaire wallon (SOWAER);5 966,05
+Business As Usual;02/08/2047;PACE;Secteur aéroportuaire wallon (SOWAER);6 173,03
+Business As Usual;02/08/2048;PACE;Secteur aéroportuaire wallon (SOWAER);6 387,99
+Business As Usual;03/08/2049;PACE;Secteur aéroportuaire wallon (SOWAER);6 586,04
+Business As Usual;04/08/2050;PACE;Secteur aéroportuaire wallon (SOWAER);6 694,46
+S0: Référence;14/07/2022;PACE;Secteur aéroportuaire wallon (SOWAER);2 730,13
+S0: Référence;15/07/2023;PACE;Secteur aéroportuaire wallon (SOWAER);2 301,18
+S0: Référence;15/07/2024;PACE;Secteur aéroportuaire wallon (SOWAER);1 707,29
+S0: Référence;16/07/2025;PACE;Secteur aéroportuaire wallon (SOWAER);1 044,92
+S0: Référence;17/07/2026;PACE;Secteur aéroportuaire wallon (SOWAER);510,47
+S0: Référence;18/07/2027;PACE;Secteur aéroportuaire wallon (SOWAER);171,76
+S0: Référence;18/07/2028;PACE;Secteur aéroportuaire wallon (SOWAER);37,75
+S0: Référence;19/07/2029;PACE;Secteur aéroportuaire wallon (SOWAER);4,03
+S0: Référence;20/07/2030;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;21/07/2031;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;21/07/2032;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;22/07/2033;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;23/07/2034;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;24/07/2035;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;24/07/2036;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;25/07/2037;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;26/07/2038;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;27/07/2039;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;27/07/2040;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;28/07/2041;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;29/07/2042;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;30/07/2043;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;30/07/2044;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;31/07/2045;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;01/08/2046;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;02/08/2047;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;02/08/2048;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;03/08/2049;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S0: Référence;04/08/2050;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;14/07/2022;PACE;Secteur aéroportuaire wallon (SOWAER);2 730,13
+S1: Rupture technologique;15/07/2023;PACE;Secteur aéroportuaire wallon (SOWAER);2 351,67
+S1: Rupture technologique;15/07/2024;PACE;Secteur aéroportuaire wallon (SOWAER);1 734,47
+S1: Rupture technologique;16/07/2025;PACE;Secteur aéroportuaire wallon (SOWAER);1 062,88
+S1: Rupture technologique;17/07/2026;PACE;Secteur aéroportuaire wallon (SOWAER);519,96
+S1: Rupture technologique;18/07/2027;PACE;Secteur aéroportuaire wallon (SOWAER);181,90
+S1: Rupture technologique;18/07/2028;PACE;Secteur aéroportuaire wallon (SOWAER);40,42
+S1: Rupture technologique;19/07/2029;PACE;Secteur aéroportuaire wallon (SOWAER);4,38
+S1: Rupture technologique;20/07/2030;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;21/07/2031;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;21/07/2032;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;22/07/2033;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;23/07/2034;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;24/07/2035;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;24/07/2036;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;25/07/2037;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;26/07/2038;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;27/07/2039;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;27/07/2040;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;28/07/2041;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;29/07/2042;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;30/07/2043;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;30/07/2044;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;31/07/2045;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;01/08/2046;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;02/08/2047;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;02/08/2048;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;03/08/2049;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S1: Rupture technologique;04/08/2050;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;14/07/2022;PACE;Secteur aéroportuaire wallon (SOWAER);2 730,13
+S3: Tous leviers;15/07/2023;PACE;Secteur aéroportuaire wallon (SOWAER);2 334,71
+S3: Tous leviers;15/07/2024;PACE;Secteur aéroportuaire wallon (SOWAER);1 709,50
+S3: Tous leviers;16/07/2025;PACE;Secteur aéroportuaire wallon (SOWAER);1 040,00
+S3: Tous leviers;17/07/2026;PACE;Secteur aéroportuaire wallon (SOWAER);505,08
+S3: Tous leviers;18/07/2027;PACE;Secteur aéroportuaire wallon (SOWAER);175,40
+S3: Tous leviers;18/07/2028;PACE;Secteur aéroportuaire wallon (SOWAER);38,62
+S3: Tous leviers;19/07/2029;PACE;Secteur aéroportuaire wallon (SOWAER);4,14
+S3: Tous leviers;20/07/2030;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;21/07/2031;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;21/07/2032;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;22/07/2033;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;23/07/2034;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;24/07/2035;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;24/07/2036;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;25/07/2037;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;26/07/2038;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;27/07/2039;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;27/07/2040;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;28/07/2041;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;29/07/2042;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;30/07/2043;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;30/07/2044;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;31/07/2045;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;01/08/2046;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;02/08/2047;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;02/08/2048;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;03/08/2049;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S3: Tous leviers;04/08/2050;PACE;Secteur aéroportuaire wallon (SOWAER);0,00
+S2: Sobriété;14/07/2022;PACE;Secteur aéroportuaire wallon (SOWAER);2 730,13
+S2: Sobriété;15/07/2023;PACE;Secteur aéroportuaire wallon (SOWAER);2 309,02
+S2: Sobriété;15/07/2024;PACE;Secteur aéroportuaire wallon (SOWAER);1 672,36
+S2: Sobriété;16/07/2025;PACE;Secteur aéroportuaire wallon (SOWAER);1 006,61
+S2: Sobriété;17/07/2026;PACE;Secteur aéroportuaire wallon (SOWAER);483,87
+S2: Sobriété;18/07/2027;PACE;Secteur aéroportuaire wallon (SOWAER);166,51
+S2: Sobriété;18/07/2028;PACE;Secteur aéroportuaire wallon (SOWAER);36,49
+S2: Sobriété;19/07/2029;PACE;Secteur aéroportuaire wallon (SOWAER);4,22
+S2: Sobriété;20/07/2030;PACE;Secteur aéroportuaire wallon (SOWAER);0,42
+S2: Sobriété;21/07/2031;PACE;Secteur aéroportuaire wallon (SOWAER);0,43
+S2: Sobriété;21/07/2032;PACE;Secteur aéroportuaire wallon (SOWAER);0,43
+S2: Sobriété;22/07/2033;PACE;Secteur aéroportuaire wallon (SOWAER);0,43
+S2: Sobriété;23/07/2034;PACE;Secteur aéroportuaire wallon (SOWAER);0,43
+S2: Sobriété;24/07/2035;PACE;Secteur aéroportuaire wallon (SOWAER);0,44
+S2: Sobriété;24/07/2036;PACE;Secteur aéroportuaire wallon (SOWAER);0,44
+S2: Sobriété;25/07/2037;PACE;Secteur aéroportuaire wallon (SOWAER);0,44
+S2: Sobriété;26/07/2038;PACE;Secteur aéroportuaire wallon (SOWAER);0,45
+S2: Sobriété;27/07/2039;PACE;Secteur aéroportuaire wallon (SOWAER);0,45
+S2: Sobriété;27/07/2040;PACE;Secteur aéroportuaire wallon (SOWAER);0,45
+S2: Sobriété;28/07/2041;PACE;Secteur aéroportuaire wallon (SOWAER);0,46
+S2: Sobriété;29/07/2042;PACE;Secteur aéroportuaire wallon (SOWAER);0,46
+S2: Sobriété;30/07/2043;PACE;Secteur aéroportuaire wallon (SOWAER);0,46
+S2: Sobriété;30/07/2044;PACE;Secteur aéroportuaire wallon (SOWAER);0,47
+S2: Sobriété;31/07/2045;PACE;Secteur aéroportuaire wallon (SOWAER);0,47
+S2: Sobriété;01/08/2046;PACE;Secteur aéroportuaire wallon (SOWAER);0,47
+S2: Sobriété;02/08/2047;PACE;Secteur aéroportuaire wallon (SOWAER);0,48
+S2: Sobriété;02/08/2048;PACE;Secteur aéroportuaire wallon (SOWAER);0,48
+S2: Sobriété;03/08/2049;PACE;Secteur aéroportuaire wallon (SOWAER);0,48
+S2: Sobriété;04/08/2050;PACE;Secteur aéroportuaire wallon (SOWAER);0,49
+Business As Usual;14/07/2022;PACE;Liège;903,03
+Business As Usual;15/07/2023;PACE;Liège;945,74
+Business As Usual;15/07/2024;PACE;Liège;990,48
+Business As Usual;16/07/2025;PACE;Liège;1 037,33
+Business As Usual;17/07/2026;PACE;Liège;1 086,39
+Business As Usual;18/07/2027;PACE;Liège;1 137,78
+Business As Usual;18/07/2028;PACE;Liège;1 191,60
+Business As Usual;19/07/2029;PACE;Liège;1 247,96
+Business As Usual;20/07/2030;PACE;Liège;1 306,99
+Business As Usual;21/07/2031;PACE;Liège;1 368,81
+Business As Usual;21/07/2032;PACE;Liège;1 433,55
+Business As Usual;22/07/2033;PACE;Liège;1 501,36
+Business As Usual;23/07/2034;PACE;Liège;1 572,37
+Business As Usual;24/07/2035;PACE;Liège;1 646,75
+Business As Usual;24/07/2036;PACE;Liège;1 724,64
+Business As Usual;25/07/2037;PACE;Liège;1 806,21
+Business As Usual;26/07/2038;PACE;Liège;1 891,65
+Business As Usual;27/07/2039;PACE;Liège;1 981,12
+Business As Usual;27/07/2040;PACE;Liège;2 074,83
+Business As Usual;28/07/2041;PACE;Liège;2 172,97
+Business As Usual;29/07/2042;PACE;Liège;2 275,75
+Business As Usual;30/07/2043;PACE;Liège;2 383,39
+Business As Usual;30/07/2044;PACE;Liège;2 496,13
+Business As Usual;31/07/2045;PACE;Liège;2 614,19
+Business As Usual;01/08/2046;PACE;Liège;2 737,84
+Business As Usual;02/08/2047;PACE;Liège;2 867,34
+Business As Usual;02/08/2048;PACE;Liège;3 002,97
+Business As Usual;03/08/2049;PACE;Liège;3 145,01
+Business As Usual;04/08/2050;PACE;Liège;3 145,01
+S0: Référence;14/07/2022;PACE;Liège;903,03
+S0: Référence;15/07/2023;PACE;Liège;756,62
+S0: Référence;15/07/2024;PACE;Liège;546,77
+S0: Référence;16/07/2025;PACE;Liège;326,62
+S0: Référence;17/07/2026;PACE;Liège;155,22
+S0: Référence;18/07/2027;PACE;Liège;54,72
+S0: Référence;18/07/2028;PACE;Liège;12,75
+S0: Référence;19/07/2029;PACE;Liège;1,46
+S0: Référence;20/07/2030;PACE;Liège;0,00
+S0: Référence;21/07/2031;PACE;Liège;0,00
+S0: Référence;21/07/2032;PACE;Liège;0,00
+S0: Référence;22/07/2033;PACE;Liège;0,00
+S0: Référence;23/07/2034;PACE;Liège;0,00
+S0: Référence;24/07/2035;PACE;Liège;0,00
+S0: Référence;24/07/2036;PACE;Liège;0,00
+S0: Référence;25/07/2037;PACE;Liège;0,00
+S0: Référence;26/07/2038;PACE;Liège;0,00
+S0: Référence;27/07/2039;PACE;Liège;0,00
+S0: Référence;27/07/2040;PACE;Liège;0,00
+S0: Référence;28/07/2041;PACE;Liège;0,00
+S0: Référence;29/07/2042;PACE;Liège;0,00
+S0: Référence;30/07/2043;PACE;Liège;0,00
+S0: Référence;30/07/2044;PACE;Liège;0,00
+S0: Référence;31/07/2045;PACE;Liège;0,00
+S0: Référence;01/08/2046;PACE;Liège;0,00
+S0: Référence;02/08/2047;PACE;Liège;0,00
+S0: Référence;02/08/2048;PACE;Liège;0,00
+S0: Référence;03/08/2049;PACE;Liège;0,00
+S0: Référence;04/08/2050;PACE;Liège;0,00
+S1: Rupture technologique;14/07/2022;PACE;Liège;903,03
+S1: Rupture technologique;15/07/2023;PACE;Liège;756,62
+S1: Rupture technologique;15/07/2024;PACE;Liège;546,77
+S1: Rupture technologique;16/07/2025;PACE;Liège;326,62
+S1: Rupture technologique;17/07/2026;PACE;Liège;155,22
+S1: Rupture technologique;18/07/2027;PACE;Liège;54,72
+S1: Rupture technologique;18/07/2028;PACE;Liège;12,75
+S1: Rupture technologique;19/07/2029;PACE;Liège;1,46
+S1: Rupture technologique;20/07/2030;PACE;Liège;0,00
+S1: Rupture technologique;21/07/2031;PACE;Liège;0,00
+S1: Rupture technologique;21/07/2032;PACE;Liège;0,00
+S1: Rupture technologique;22/07/2033;PACE;Liège;0,00
+S1: Rupture technologique;23/07/2034;PACE;Liège;0,00
+S1: Rupture technologique;24/07/2035;PACE;Liège;0,00
+S1: Rupture technologique;24/07/2036;PACE;Liège;0,00
+S1: Rupture technologique;25/07/2037;PACE;Liège;0,00
+S1: Rupture technologique;26/07/2038;PACE;Liège;0,00
+S1: Rupture technologique;27/07/2039;PACE;Liège;0,00
+S1: Rupture technologique;27/07/2040;PACE;Liège;0,00
+S1: Rupture technologique;28/07/2041;PACE;Liège;0,00
+S1: Rupture technologique;29/07/2042;PACE;Liège;0,00
+S1: Rupture technologique;30/07/2043;PACE;Liège;0,00
+S1: Rupture technologique;30/07/2044;PACE;Liège;0,00
+S1: Rupture technologique;31/07/2045;PACE;Liège;0,00
+S1: Rupture technologique;01/08/2046;PACE;Liège;0,00
+S1: Rupture technologique;02/08/2047;PACE;Liège;0,00
+S1: Rupture technologique;02/08/2048;PACE;Liège;0,00
+S1: Rupture technologique;03/08/2049;PACE;Liège;0,00
+S1: Rupture technologique;04/08/2050;PACE;Liège;0,00
+S3: Tous leviers;14/07/2022;PACE;Liège;903,03
+S3: Tous leviers;15/07/2023;PACE;Liège;746,14
+S3: Tous leviers;15/07/2024;PACE;Liège;531,73
+S3: Tous leviers;16/07/2025;PACE;Liège;313,24
+S3: Tous leviers;17/07/2026;PACE;Liège;146,80
+S3: Tous leviers;18/07/2027;PACE;Liège;51,03
+S3: Tous leviers;18/07/2028;PACE;Liège;11,73
+S3: Tous leviers;19/07/2029;PACE;Liège;1,33
+S3: Tous leviers;20/07/2030;PACE;Liège;0,00
+S3: Tous leviers;21/07/2031;PACE;Liège;0,00
+S3: Tous leviers;21/07/2032;PACE;Liège;0,00
+S3: Tous leviers;22/07/2033;PACE;Liège;0,00
+S3: Tous leviers;23/07/2034;PACE;Liège;0,00
+S3: Tous leviers;24/07/2035;PACE;Liège;0,00
+S3: Tous leviers;24/07/2036;PACE;Liège;0,00
+S3: Tous leviers;25/07/2037;PACE;Liège;0,00
+S3: Tous leviers;26/07/2038;PACE;Liège;0,00
+S3: Tous leviers;27/07/2039;PACE;Liège;0,00
+S3: Tous leviers;27/07/2040;PACE;Liège;0,00
+S3: Tous leviers;28/07/2041;PACE;Liège;0,00
+S3: Tous leviers;29/07/2042;PACE;Liège;0,00
+S3: Tous leviers;30/07/2043;PACE;Liège;0,00
+S3: Tous leviers;30/07/2044;PACE;Liège;0,00
+S3: Tous leviers;31/07/2045;PACE;Liège;0,00
+S3: Tous leviers;01/08/2046;PACE;Liège;0,00
+S3: Tous leviers;02/08/2047;PACE;Liège;0,00
+S3: Tous leviers;02/08/2048;PACE;Liège;0,00
+S3: Tous leviers;03/08/2049;PACE;Liège;0,00
+S3: Tous leviers;04/08/2050;PACE;Liège;0,00
+S2: Sobriété;14/07/2022;PACE;Liège;903,03
+S2: Sobriété;15/07/2023;PACE;Liège;729,67
+S2: Sobriété;15/07/2024;PACE;Liège;508,51
+S2: Sobriété;16/07/2025;PACE;Liège;292,95
+S2: Sobriété;17/07/2026;PACE;Liège;134,26
+S2: Sobriété;18/07/2027;PACE;Liège;45,64
+S2: Sobriété;18/07/2028;PACE;Liège;10,26
+S2: Sobriété;19/07/2029;PACE;Liège;1,13
+S2: Sobriété;20/07/2030;PACE;Liège;0,00
+S2: Sobriété;21/07/2031;PACE;Liège;0,00
+S2: Sobriété;21/07/2032;PACE;Liège;0,00
+S2: Sobriété;22/07/2033;PACE;Liège;0,00
+S2: Sobriété;23/07/2034;PACE;Liège;0,00
+S2: Sobriété;24/07/2035;PACE;Liège;0,00
+S2: Sobriété;24/07/2036;PACE;Liège;0,00
+S2: Sobriété;25/07/2037;PACE;Liège;0,00
+S2: Sobriété;26/07/2038;PACE;Liège;0,00
+S2: Sobriété;27/07/2039;PACE;Liège;0,00
+S2: Sobriété;27/07/2040;PACE;Liège;0,00
+S2: Sobriété;28/07/2041;PACE;Liège;0,00
+S2: Sobriété;29/07/2042;PACE;Liège;0,00
+S2: Sobriété;30/07/2043;PACE;Liège;0,00
+S2: Sobriété;30/07/2044;PACE;Liège;0,00
+S2: Sobriété;31/07/2045;PACE;Liège;0,00
+S2: Sobriété;01/08/2046;PACE;Liège;0,00
+S2: Sobriété;02/08/2047;PACE;Liège;0,00
+S2: Sobriété;02/08/2048;PACE;Liège;0,00
+S2: Sobriété;03/08/2049;PACE;Liège;0,00
+S2: Sobriété;04/08/2050;PACE;Liège;0,00
+Business As Usual;2022;PACE;Charleroi;1 827,10
+Business As Usual;2023;PACE;Charleroi;1 870,95
+Business As Usual;2024;PACE;Charleroi;1 915,85
+Business As Usual;2025;PACE;Charleroi;1 961,83
+Business As Usual;2026;PACE;Charleroi;2 008,92
+Business As Usual;2027;PACE;Charleroi;2 057,13
+Business As Usual;2028;PACE;Charleroi;2 106,50
+Business As Usual;2029;PACE;Charleroi;2 157,06
+Business As Usual;2030;PACE;Charleroi;2 208,83
+Business As Usual;2031;PACE;Charleroi;2 261,84
+Business As Usual;2032;PACE;Charleroi;2 316,12
+Business As Usual;2033;PACE;Charleroi;2 371,71
+Business As Usual;2034;PACE;Charleroi;2 428,63
+Business As Usual;2035;PACE;Charleroi;2 486,92
+Business As Usual;2036;PACE;Charleroi;2 546,61
+Business As Usual;2037;PACE;Charleroi;2 607,72
+Business As Usual;2038;PACE;Charleroi;2 670,31
+Business As Usual;2039;PACE;Charleroi;2 734,40
+Business As Usual;2040;PACE;Charleroi;2 800,02
+Business As Usual;2041;PACE;Charleroi;2 867,22
+Business As Usual;2042;PACE;Charleroi;2 936,04
+Business As Usual;2043;PACE;Charleroi;3 006,50
+Business As Usual;2044;PACE;Charleroi;3 078,66
+Business As Usual;2045;PACE;Charleroi;3 152,55
+Business As Usual;2046;PACE;Charleroi;3 228,21
+Business As Usual;2047;PACE;Charleroi;3 305,68
+Business As Usual;2048;PACE;Charleroi;3 385,02
+Business As Usual;2049;PACE;Charleroi;3 466,26
+Business As Usual;2050;PACE;Charleroi;3 549,45
+S0: Référence;2022;PACE;Charleroi;1 827,10
+S0: Référence;2023;PACE;Charleroi;1 544,56
+S0: Référence;2024;PACE;Charleroi;1 160,53
+S0: Référence;2025;PACE;Charleroi;718,30
+S0: Référence;2026;PACE;Charleroi;355,25
+S0: Référence;2027;PACE;Charleroi;117,04
+S0: Référence;2028;PACE;Charleroi;25,00
+S0: Référence;2029;PACE;Charleroi;2,57
+S0: Référence;2030;PACE;Charleroi;0,00
+S0: Référence;2031;PACE;Charleroi;0,00
+S0: Référence;2032;PACE;Charleroi;0,00
+S0: Référence;2033;PACE;Charleroi;0,00
+S0: Référence;2034;PACE;Charleroi;0,00
+S0: Référence;2035;PACE;Charleroi;0,00
+S0: Référence;2036;PACE;Charleroi;0,00
+S0: Référence;2037;PACE;Charleroi;0,00
+S0: Référence;2038;PACE;Charleroi;0,00
+S0: Référence;2039;PACE;Charleroi;0,00
+S0: Référence;2040;PACE;Charleroi;0,00
+S0: Référence;2041;PACE;Charleroi;0,00
+S0: Référence;2042;PACE;Charleroi;0,00
+S0: Référence;2043;PACE;Charleroi;0,00
+S0: Référence;2044;PACE;Charleroi;0,00
+S0: Référence;2045;PACE;Charleroi;0,00
+S0: Référence;2046;PACE;Charleroi;0,00
+S0: Référence;2047;PACE;Charleroi;0,00
+S0: Référence;2048;PACE;Charleroi;0,00
+S0: Référence;2049;PACE;Charleroi;0,00
+S0: Référence;2050;PACE;Charleroi;0,00
+S1: Rupture technologique;2022;PACE;Charleroi;1 827,10
+S1: Rupture technologique;2023;PACE;Charleroi;1 595,05
+S1: Rupture technologique;2024;PACE;Charleroi;1 187,70
+S1: Rupture technologique;2025;PACE;Charleroi;736,26
+S1: Rupture technologique;2026;PACE;Charleroi;364,74
+S1: Rupture technologique;2027;PACE;Charleroi;127,18
+S1: Rupture technologique;2028;PACE;Charleroi;27,67
+S1: Rupture technologique;2029;PACE;Charleroi;2,91
+S1: Rupture technologique;2030;PACE;Charleroi;0,00
+S1: Rupture technologique;2031;PACE;Charleroi;0,00
+S1: Rupture technologique;2032;PACE;Charleroi;0,00
+S1: Rupture technologique;2033;PACE;Charleroi;0,00
+S1: Rupture technologique;2034;PACE;Charleroi;0,00
+S1: Rupture technologique;2035;PACE;Charleroi;0,00
+S1: Rupture technologique;2036;PACE;Charleroi;0,00
+S1: Rupture technologique;2037;PACE;Charleroi;0,00
+S1: Rupture technologique;2038;PACE;Charleroi;0,00
+S1: Rupture technologique;2039;PACE;Charleroi;0,00
+S1: Rupture technologique;2040;PACE;Charleroi;0,00
+S1: Rupture technologique;2041;PACE;Charleroi;0,00
+S1: Rupture technologique;2042;PACE;Charleroi;0,00
+S1: Rupture technologique;2043;PACE;Charleroi;0,00
+S1: Rupture technologique;2044;PACE;Charleroi;0,00
+S1: Rupture technologique;2045;PACE;Charleroi;0,00
+S1: Rupture technologique;2046;PACE;Charleroi;0,00
+S1: Rupture technologique;2047;PACE;Charleroi;0,00
+S1: Rupture technologique;2048;PACE;Charleroi;0,00
+S1: Rupture technologique;2049;PACE;Charleroi;0,00
+S1: Rupture technologique;2050;PACE;Charleroi;0,00
+S3: Tous leviers;2022;PACE;Charleroi;1 827,10
+S3: Tous leviers;2023;PACE;Charleroi;1 588,56
+S3: Tous leviers;2024;PACE;Charleroi;1 177,77
+S3: Tous leviers;2025;PACE;Charleroi;726,76
+S3: Tous leviers;2026;PACE;Charleroi;358,28
+S3: Tous leviers;2027;PACE;Charleroi;124,37
+S3: Tous leviers;2028;PACE;Charleroi;26,89
+S3: Tous leviers;2029;PACE;Charleroi;2,81
+S3: Tous leviers;2030;PACE;Charleroi;0,00
+S3: Tous leviers;2031;PACE;Charleroi;0,00
+S3: Tous leviers;2032;PACE;Charleroi;0,00
+S3: Tous leviers;2033;PACE;Charleroi;0,00
+S3: Tous leviers;2034;PACE;Charleroi;0,00
+S3: Tous leviers;2035;PACE;Charleroi;0,00
+S3: Tous leviers;2036;PACE;Charleroi;0,00
+S3: Tous leviers;2037;PACE;Charleroi;0,00
+S3: Tous leviers;2038;PACE;Charleroi;0,00
+S3: Tous leviers;2039;PACE;Charleroi;0,00
+S3: Tous leviers;2040;PACE;Charleroi;0,00
+S3: Tous leviers;2041;PACE;Charleroi;0,00
+S3: Tous leviers;2042;PACE;Charleroi;0,00
+S3: Tous leviers;2043;PACE;Charleroi;0,00
+S3: Tous leviers;2044;PACE;Charleroi;0,00
+S3: Tous leviers;2045;PACE;Charleroi;0,00
+S3: Tous leviers;2046;PACE;Charleroi;0,00
+S3: Tous leviers;2047;PACE;Charleroi;0,00
+S3: Tous leviers;2048;PACE;Charleroi;0,00
+S3: Tous leviers;2049;PACE;Charleroi;0,00
+S3: Tous leviers;2050;PACE;Charleroi;0,00
+S2: Sobriété;2022;PACE;Charleroi;1 827,10
+S2: Sobriété;2023;PACE;Charleroi;1 579,35
+S2: Sobriété;2024;PACE;Charleroi;1 163,85
+S2: Sobriété;2025;PACE;Charleroi;713,66
+S2: Sobriété;2026;PACE;Charleroi;349,61
+S2: Sobriété;2027;PACE;Charleroi;120,86
+S2: Sobriété;2028;PACE;Charleroi;26,23
+S2: Sobriété;2029;PACE;Charleroi;3,09
+S2: Sobriété;2030;PACE;Charleroi;0,42
+S2: Sobriété;2031;PACE;Charleroi;0,43
+S2: Sobriété;2032;PACE;Charleroi;0,43
+S2: Sobriété;2033;PACE;Charleroi;0,43
+S2: Sobriété;2034;PACE;Charleroi;0,43
+S2: Sobriété;2035;PACE;Charleroi;0,44
+S2: Sobriété;2036;PACE;Charleroi;0,44
+S2: Sobriété;2037;PACE;Charleroi;0,44
+S2: Sobriété;2038;PACE;Charleroi;0,45
+S2: Sobriété;2039;PACE;Charleroi;0,45
+S2: Sobriété;2040;PACE;Charleroi;0,45
+S2: Sobriété;2041;PACE;Charleroi;0,46
+S2: Sobriété;2042;PACE;Charleroi;0,46
+S2: Sobriété;2043;PACE;Charleroi;0,46
+S2: Sobriété;2044;PACE;Charleroi;0,47
+S2: Sobriété;2045;PACE;Charleroi;0,47
+S2: Sobriété;2046;PACE;Charleroi;0,47
+S2: Sobriété;2047;PACE;Charleroi;0,48
+S2: Sobriété;2048;PACE;Charleroi;0,48
+S2: Sobriété;2049;PACE;Charleroi;0,48
+S2: Sobriété;2050;PACE;Charleroi;0,49
+Business As Usual;14/07/2022;ACA 3;Secteur aéroportuaire wallon (SOWAER);138 151,73
+Business As Usual;15/07/2023;ACA 3;Secteur aéroportuaire wallon (SOWAER);142 919,92
+Business As Usual;15/07/2024;ACA 3;Secteur aéroportuaire wallon (SOWAER);147 866,34
+Business As Usual;16/07/2025;ACA 3;Secteur aéroportuaire wallon (SOWAER);153 053,24
+Business As Usual;17/07/2026;ACA 3;Secteur aéroportuaire wallon (SOWAER);158 463,83
+Business As Usual;18/07/2027;ACA 3;Secteur aéroportuaire wallon (SOWAER);164 092,52
+Business As Usual;18/07/2028;ACA 3;Secteur aéroportuaire wallon (SOWAER);169 949,62
+Business As Usual;19/07/2029;ACA 3;Secteur aéroportuaire wallon (SOWAER);176 044,03
+Business As Usual;20/07/2030;ACA 3;Secteur aéroportuaire wallon (SOWAER);182 385,57
+Business As Usual;21/07/2031;ACA 3;Secteur aéroportuaire wallon (SOWAER);188 984,48
+Business As Usual;21/07/2032;ACA 3;Secteur aéroportuaire wallon (SOWAER);195 852,41
+Business As Usual;22/07/2033;ACA 3;Secteur aéroportuaire wallon (SOWAER);203 001,39
+Business As Usual;23/07/2034;ACA 3;Secteur aéroportuaire wallon (SOWAER);210 442,82
+Business As Usual;24/07/2035;ACA 3;Secteur aéroportuaire wallon (SOWAER);218 190,80
+Business As Usual;24/07/2036;ACA 3;Secteur aéroportuaire wallon (SOWAER);226 257,45
+Business As Usual;25/07/2037;ACA 3;Secteur aéroportuaire wallon (SOWAER);234 657,71
+Business As Usual;26/07/2038;ACA 3;Secteur aéroportuaire wallon (SOWAER);243 406,49
+Business As Usual;27/07/2039;ACA 3;Secteur aéroportuaire wallon (SOWAER);252 517,83
+Business As Usual;27/07/2040;ACA 3;Secteur aéroportuaire wallon (SOWAER);262 007,49
+Business As Usual;28/07/2041;ACA 3;Secteur aéroportuaire wallon (SOWAER);271 876,95
+Business As Usual;29/07/2042;ACA 3;Secteur aéroportuaire wallon (SOWAER);282 142,09
+Business As Usual;30/07/2043;ACA 3;Secteur aéroportuaire wallon (SOWAER);292 819,49
+Business As Usual;30/07/2044;ACA 3;Secteur aéroportuaire wallon (SOWAER);303 926,42
+Business As Usual;31/07/2045;ACA 3;Secteur aéroportuaire wallon (SOWAER);315 480,94
+Business As Usual;01/08/2046;ACA 3;Secteur aéroportuaire wallon (SOWAER);327 501,85
+Business As Usual;02/08/2047;ACA 3;Secteur aéroportuaire wallon (SOWAER);340 008,77
+Business As Usual;02/08/2048;ACA 3;Secteur aéroportuaire wallon (SOWAER);353 022,19
+Business As Usual;03/08/2049;ACA 3;Secteur aéroportuaire wallon (SOWAER);366 538,23
+Business As Usual;04/08/2050;ACA 3;Secteur aéroportuaire wallon (SOWAER);368 992,04
+S0: Référence;14/07/2022;ACA 3;Secteur aéroportuaire wallon (SOWAER);138 151,73
+S0: Référence;15/07/2023;ACA 3;Secteur aéroportuaire wallon (SOWAER);138 101,45
+S0: Référence;15/07/2024;ACA 3;Secteur aéroportuaire wallon (SOWAER);137 183,17
+S0: Référence;16/07/2025;ACA 3;Secteur aéroportuaire wallon (SOWAER);134 450,23
+S0: Référence;17/07/2026;ACA 3;Secteur aéroportuaire wallon (SOWAER);134 090,46
+S0: Référence;18/07/2027;ACA 3;Secteur aéroportuaire wallon (SOWAER);132 402,80
+S0: Référence;18/07/2028;ACA 3;Secteur aéroportuaire wallon (SOWAER);131 027,29
+S0: Référence;19/07/2029;ACA 3;Secteur aéroportuaire wallon (SOWAER);129 985,63
+S0: Référence;20/07/2030;ACA 3;Secteur aéroportuaire wallon (SOWAER);129 427,81
+S0: Référence;21/07/2031;ACA 3;Secteur aéroportuaire wallon (SOWAER);129 228,01
+S0: Référence;21/07/2032;ACA 3;Secteur aéroportuaire wallon (SOWAER);129 924,34
+S0: Référence;22/07/2033;ACA 3;Secteur aéroportuaire wallon (SOWAER);131 238,64
+S0: Référence;23/07/2034;ACA 3;Secteur aéroportuaire wallon (SOWAER);133 065,20
+S0: Référence;24/07/2035;ACA 3;Secteur aéroportuaire wallon (SOWAER);135 303,02
+S0: Référence;24/07/2036;ACA 3;Secteur aéroportuaire wallon (SOWAER);137 002,24
+S0: Référence;25/07/2037;ACA 3;Secteur aéroportuaire wallon (SOWAER);139 931,03
+S0: Référence;26/07/2038;ACA 3;Secteur aéroportuaire wallon (SOWAER);142 268,41
+S0: Référence;27/07/2039;ACA 3;Secteur aéroportuaire wallon (SOWAER);143 856,40
+S0: Référence;27/07/2040;ACA 3;Secteur aéroportuaire wallon (SOWAER);144 705,49
+S0: Référence;28/07/2041;ACA 3;Secteur aéroportuaire wallon (SOWAER);145 597,73
+S0: Référence;29/07/2042;ACA 3;Secteur aéroportuaire wallon (SOWAER);146 042,05
+S0: Référence;30/07/2043;ACA 3;Secteur aéroportuaire wallon (SOWAER);145 749,16
+S0: Référence;30/07/2044;ACA 3;Secteur aéroportuaire wallon (SOWAER);144 927,57
+S0: Référence;31/07/2045;ACA 3;Secteur aéroportuaire wallon (SOWAER);143 508,18
+S0: Référence;01/08/2046;ACA 3;Secteur aéroportuaire wallon (SOWAER);141 738,92
+S0: Référence;02/08/2047;ACA 3;Secteur aéroportuaire wallon (SOWAER);139 552,39
+S0: Référence;02/08/2048;ACA 3;Secteur aéroportuaire wallon (SOWAER);137 219,01
+S0: Référence;03/08/2049;ACA 3;Secteur aéroportuaire wallon (SOWAER);134 654,04
+S0: Référence;04/08/2050;ACA 3;Secteur aéroportuaire wallon (SOWAER);125 983,87
+S1: Rupture technologique;14/07/2022;ACA 3;Secteur aéroportuaire wallon (SOWAER);138 151,73
+S1: Rupture technologique;15/07/2023;ACA 3;Secteur aéroportuaire wallon (SOWAER);137 830,27
+S1: Rupture technologique;15/07/2024;ACA 3;Secteur aéroportuaire wallon (SOWAER);136 189,52
+S1: Rupture technologique;16/07/2025;ACA 3;Secteur aéroportuaire wallon (SOWAER);131 873,04
+S1: Rupture technologique;17/07/2026;ACA 3;Secteur aéroportuaire wallon (SOWAER);127 139,29
+S1: Rupture technologique;18/07/2027;ACA 3;Secteur aéroportuaire wallon (SOWAER);122 406,33
+S1: Rupture technologique;18/07/2028;ACA 3;Secteur aéroportuaire wallon (SOWAER);117 965,72
+S1: Rupture technologique;19/07/2029;ACA 3;Secteur aéroportuaire wallon (SOWAER);113 813,76
+S1: Rupture technologique;20/07/2030;ACA 3;Secteur aéroportuaire wallon (SOWAER);107 101,41
+S1: Rupture technologique;21/07/2031;ACA 3;Secteur aéroportuaire wallon (SOWAER);101 471,53
+S1: Rupture technologique;21/07/2032;ACA 3;Secteur aéroportuaire wallon (SOWAER);96 719,46
+S1: Rupture technologique;22/07/2033;ACA 3;Secteur aéroportuaire wallon (SOWAER);92 541,09
+S1: Rupture technologique;23/07/2034;ACA 3;Secteur aéroportuaire wallon (SOWAER);88 891,58
+S1: Rupture technologique;24/07/2035;ACA 3;Secteur aéroportuaire wallon (SOWAER);78 833,98
+S1: Rupture technologique;24/07/2036;ACA 3;Secteur aéroportuaire wallon (SOWAER);70 823,19
+S1: Rupture technologique;25/07/2037;ACA 3;Secteur aéroportuaire wallon (SOWAER);64 494,35
+S1: Rupture technologique;26/07/2038;ACA 3;Secteur aéroportuaire wallon (SOWAER);59 349,85
+S1: Rupture technologique;27/07/2039;ACA 3;Secteur aéroportuaire wallon (SOWAER);55 173,93
+S1: Rupture technologique;27/07/2040;ACA 3;Secteur aéroportuaire wallon (SOWAER);49 977,23
+S1: Rupture technologique;28/07/2041;ACA 3;Secteur aéroportuaire wallon (SOWAER);47 777,55
+S1: Rupture technologique;29/07/2042;ACA 3;Secteur aéroportuaire wallon (SOWAER);47 129,02
+S1: Rupture technologique;30/07/2043;ACA 3;Secteur aéroportuaire wallon (SOWAER);47 258,35
+S1: Rupture technologique;30/07/2044;ACA 3;Secteur aéroportuaire wallon (SOWAER);48 018,62
+S1: Rupture technologique;31/07/2045;ACA 3;Secteur aéroportuaire wallon (SOWAER);48 984,58
+S1: Rupture technologique;01/08/2046;ACA 3;Secteur aéroportuaire wallon (SOWAER);50 357,98
+S1: Rupture technologique;02/08/2047;ACA 3;Secteur aéroportuaire wallon (SOWAER);51 844,46
+S1: Rupture technologique;02/08/2048;ACA 3;Secteur aéroportuaire wallon (SOWAER);53 546,04
+S1: Rupture technologique;03/08/2049;ACA 3;Secteur aéroportuaire wallon (SOWAER);55 244,25
+S1: Rupture technologique;04/08/2050;ACA 3;Secteur aéroportuaire wallon (SOWAER);54 413,32
+S3: Tous leviers;14/07/2022;ACA 3;Secteur aéroportuaire wallon (SOWAER);138 151,73
+S3: Tous leviers;15/07/2023;ACA 3;Secteur aéroportuaire wallon (SOWAER);136 781,03
+S3: Tous leviers;15/07/2024;ACA 3;Secteur aéroportuaire wallon (SOWAER);134 150,59
+S3: Tous leviers;16/07/2025;ACA 3;Secteur aéroportuaire wallon (SOWAER);128 990,95
+S3: Tous leviers;17/07/2026;ACA 3;Secteur aéroportuaire wallon (SOWAER);123 510,58
+S3: Tous leviers;18/07/2027;ACA 3;Secteur aéroportuaire wallon (SOWAER);118 083,97
+S3: Tous leviers;18/07/2028;ACA 3;Secteur aéroportuaire wallon (SOWAER);112 958,48
+S3: Tous leviers;19/07/2029;ACA 3;Secteur aéroportuaire wallon (SOWAER);108 111,39
+S3: Tous leviers;20/07/2030;ACA 3;Secteur aéroportuaire wallon (SOWAER);100 791,87
+S3: Tous leviers;21/07/2031;ACA 3;Secteur aéroportuaire wallon (SOWAER);94 513,31
+S3: Tous leviers;21/07/2032;ACA 3;Secteur aéroportuaire wallon (SOWAER);88 996,89
+S3: Tous leviers;22/07/2033;ACA 3;Secteur aéroportuaire wallon (SOWAER);84 070,39
+S3: Tous leviers;23/07/2034;ACA 3;Secteur aéroportuaire wallon (SOWAER);79 760,28
+S3: Tous leviers;24/07/2035;ACA 3;Secteur aéroportuaire wallon (SOWAER);69 689,97
+S3: Tous leviers;24/07/2036;ACA 3;Secteur aéroportuaire wallon (SOWAER);61 667,84
+S3: Tous leviers;25/07/2037;ACA 3;Secteur aéroportuaire wallon (SOWAER);55 255,74
+S3: Tous leviers;26/07/2038;ACA 3;Secteur aéroportuaire wallon (SOWAER);49 987,73
+S3: Tous leviers;27/07/2039;ACA 3;Secteur aéroportuaire wallon (SOWAER);45 654,72
+S3: Tous leviers;27/07/2040;ACA 3;Secteur aéroportuaire wallon (SOWAER);40 415,31
+S3: Tous leviers;28/07/2041;ACA 3;Secteur aéroportuaire wallon (SOWAER);37 779,75
+S3: Tous leviers;29/07/2042;ACA 3;Secteur aéroportuaire wallon (SOWAER);36 503,88
+S3: Tous leviers;30/07/2043;ACA 3;Secteur aéroportuaire wallon (SOWAER);35 919,00
+S3: Tous leviers;30/07/2044;ACA 3;Secteur aéroportuaire wallon (SOWAER);35 865,52
+S3: Tous leviers;31/07/2045;ACA 3;Secteur aéroportuaire wallon (SOWAER);35 978,40
+S3: Tous leviers;01/08/2046;ACA 3;Secteur aéroportuaire wallon (SOWAER);36 414,33
+S3: Tous leviers;02/08/2047;ACA 3;Secteur aéroportuaire wallon (SOWAER);36 935,52
+S3: Tous leviers;02/08/2048;ACA 3;Secteur aéroportuaire wallon (SOWAER);37 599,42
+S3: Tous leviers;03/08/2049;ACA 3;Secteur aéroportuaire wallon (SOWAER);38 244,49
+S3: Tous leviers;04/08/2050;ACA 3;Secteur aéroportuaire wallon (SOWAER);38 834,17
+S2: Sobriété;14/07/2022;ACA 3;Secteur aéroportuaire wallon (SOWAER);138 151,73
+S2: Sobriété;15/07/2023;ACA 3;Secteur aéroportuaire wallon (SOWAER);134 711,96
+S2: Sobriété;15/07/2024;ACA 3;Secteur aéroportuaire wallon (SOWAER);130 136,36
+S2: Sobriété;16/07/2025;ACA 3;Secteur aéroportuaire wallon (SOWAER);123 156,49
+S2: Sobriété;17/07/2026;ACA 3;Secteur aéroportuaire wallon (SOWAER);115 997,09
+S2: Sobriété;18/07/2027;ACA 3;Secteur aéroportuaire wallon (SOWAER);109 013,35
+S2: Sobriété;18/07/2028;ACA 3;Secteur aéroportuaire wallon (SOWAER);102 420,07
+S2: Sobriété;19/07/2029;ACA 3;Secteur aéroportuaire wallon (SOWAER);96 186,43
+S2: Sobriété;20/07/2030;ACA 3;Secteur aéroportuaire wallon (SOWAER);87 813,21
+S2: Sobriété;21/07/2031;ACA 3;Secteur aéroportuaire wallon (SOWAER);80 556,07
+S2: Sobriété;21/07/2032;ACA 3;Secteur aéroportuaire wallon (SOWAER);74 152,43
+S2: Sobriété;22/07/2033;ACA 3;Secteur aéroportuaire wallon (SOWAER);68 411,17
+S2: Sobriété;23/07/2034;ACA 3;Secteur aéroportuaire wallon (SOWAER);63 341,81
+S2: Sobriété;24/07/2035;ACA 3;Secteur aéroportuaire wallon (SOWAER);53 842,30
+S2: Sobriété;24/07/2036;ACA 3;Secteur aéroportuaire wallon (SOWAER);46 404,60
+S2: Sobriété;25/07/2037;ACA 3;Secteur aéroportuaire wallon (SOWAER);40 557,94
+S2: Sobriété;26/07/2038;ACA 3;Secteur aéroportuaire wallon (SOWAER);35 811,31
+S2: Sobriété;27/07/2039;ACA 3;Secteur aéroportuaire wallon (SOWAER);31 937,31
+S2: Sobriété;27/07/2040;ACA 3;Secteur aéroportuaire wallon (SOWAER);27 578,20
+S2: Sobriété;28/07/2041;ACA 3;Secteur aéroportuaire wallon (SOWAER);25 188,07
+S2: Sobriété;29/07/2042;ACA 3;Secteur aéroportuaire wallon (SOWAER);23 811,45
+S2: Sobriété;30/07/2043;ACA 3;Secteur aéroportuaire wallon (SOWAER);22 938,60
+S2: Sobriété;30/07/2044;ACA 3;Secteur aéroportuaire wallon (SOWAER);22 428,17
+S2: Sobriété;31/07/2045;ACA 3;Secteur aéroportuaire wallon (SOWAER);22 034,73
+S2: Sobriété;01/08/2046;ACA 3;Secteur aéroportuaire wallon (SOWAER);21 836,41
+S2: Sobriété;02/08/2047;ACA 3;Secteur aéroportuaire wallon (SOWAER);21 682,75
+S2: Sobriété;02/08/2048;ACA 3;Secteur aéroportuaire wallon (SOWAER);21 603,15
+S2: Sobriété;03/08/2049;ACA 3;Secteur aéroportuaire wallon (SOWAER);21 505,26
+S2: Sobriété;04/08/2050;ACA 3;Secteur aéroportuaire wallon (SOWAER);21 373,58
+Business As Usual;14/07/2022;ACA 3;Liège;84 813,00
+Business As Usual;15/07/2023;ACA 3;Liège;88 301,07
+Business As Usual;15/07/2024;ACA 3;Liège;91 936,63
+Business As Usual;16/07/2025;ACA 3;Liège;95 781,22
+Business As Usual;17/07/2026;ACA 3;Liège;99 817,28
+Business As Usual;18/07/2027;ACA 3;Liège;104 038,46
+Business As Usual;18/07/2028;ACA 3;Liège;108 454,26
+Business As Usual;19/07/2029;ACA 3;Liège;113 072,78
+Business As Usual;20/07/2030;ACA 3;Liège;117 903,01
+Business As Usual;21/07/2031;ACA 3;Liège;122 954,34
+Business As Usual;21/07/2032;ACA 3;Liège;128 237,55
+Business As Usual;22/07/2033;ACA 3;Liège;133 763,77
+Business As Usual;23/07/2034;ACA 3;Liège;139 543,50
+Business As Usual;24/07/2035;ACA 3;Liège;145 589,89
+Business As Usual;24/07/2036;ACA 3;Liège;151 914,12
+Business As Usual;25/07/2037;ACA 3;Liège;158 530,14
+Business As Usual;26/07/2038;ACA 3;Liège;165 451,86
+Business As Usual;27/07/2039;ACA 3;Liège;172 692,29
+Business As Usual;27/07/2040;ACA 3;Liège;180 266,14
+Business As Usual;28/07/2041;ACA 3;Liège;188 173,80
+Business As Usual;29/07/2042;ACA 3;Liège;196 430,07
+Business As Usual;30/07/2043;ACA 3;Liège;205 050,37
+Business As Usual;30/07/2044;ACA 3;Liège;214 050,85
+Business As Usual;31/07/2045;ACA 3;Liège;223 448,35
+Business As Usual;01/08/2046;ACA 3;Liège;233 260,48
+Business As Usual;02/08/2047;ACA 3;Liège;243 505,61
+Business As Usual;02/08/2048;ACA 3;Liège;254 202,95
+Business As Usual;03/08/2049;ACA 3;Liège;265 372,56
+Business As Usual;04/08/2050;ACA 3;Liège;265 372,56
+S0: Référence;14/07/2022;ACA 3;Liège;84 813,00
+S0: Référence;15/07/2023;ACA 3;Liège;87 742,85
+S0: Référence;15/07/2024;ACA 3;Liège;90 649,30
+S0: Référence;16/07/2025;ACA 3;Liège;92 290,67
+S0: Référence;17/07/2026;ACA 3;Liège;96 490,10
+S0: Référence;18/07/2027;ACA 3;Liège;99 342,88
+S0: Référence;18/07/2028;ACA 3;Liège;102 313,84
+S0: Référence;19/07/2029;ACA 3;Liège;105 384,55
+S0: Référence;20/07/2030;ACA 3;Liège;108 622,42
+S0: Référence;21/07/2031;ACA 3;Liège;111 873,33
+S0: Référence;21/07/2032;ACA 3;Liège;115 460,16
+S0: Référence;22/07/2033;ACA 3;Liège;119 160,83
+S0: Référence;23/07/2034;ACA 3;Liège;122 962,76
+S0: Référence;24/07/2035;ACA 3;Liège;126 825,72
+S0: Référence;24/07/2036;ACA 3;Liège;129 878,47
+S0: Référence;25/07/2037;ACA 3;Liège;133 920,12
+S0: Référence;26/07/2038;ACA 3;Liège;137 185,80
+S0: Référence;27/07/2039;ACA 3;Liège;139 537,79
+S0: Référence;27/07/2040;ACA 3;Liège;141 029,62
+S0: Référence;28/07/2041;ACA 3;Liège;142 447,68
+S0: Référence;29/07/2042;ACA 3;Liège;143 283,71
+S0: Référence;30/07/2043;ACA 3;Liège;143 309,69
+S0: Référence;30/07/2044;ACA 3;Liège;142 746,84
+S0: Référence;31/07/2045;ACA 3;Liège;141 536,57
+S0: Référence;01/08/2046;ACA 3;Liège;139 935,42
+S0: Référence;02/08/2047;ACA 3;Liège;137 883,14
+S0: Référence;02/08/2048;ACA 3;Liège;135 655,96
+S0: Référence;03/08/2049;ACA 3;Liège;133 174,01
+S0: Référence;04/08/2050;ACA 3;Liège;124 567,64
+S1: Rupture technologique;14/07/2022;ACA 3;Liège;84 813,00
+S1: Rupture technologique;15/07/2023;ACA 3;Liège;87 561,95
+S1: Rupture technologique;15/07/2024;ACA 3;Liège;90 024,69
+S1: Rupture technologique;16/07/2025;ACA 3;Liège;91 195,97
+S1: Rupture technologique;17/07/2026;ACA 3;Liège;91 979,66
+S1: Rupture technologique;18/07/2027;ACA 3;Liège;92 538,31
+S1: Rupture technologique;18/07/2028;ACA 3;Liège;92 983,52
+S1: Rupture technologique;19/07/2029;ACA 3;Liège;93 255,57
+S1: Rupture technologique;20/07/2030;ACA 3;Liège;91 070,25
+S1: Rupture technologique;21/07/2031;ACA 3;Liège;89 153,87
+S1: Rupture technologique;21/07/2032;ACA 3;Liège;87 256,83
+S1: Rupture technologique;22/07/2033;ACA 3;Liège;85 244,55
+S1: Rupture technologique;23/07/2034;ACA 3;Liège;83 238,15
+S1: Rupture technologique;24/07/2035;ACA 3;Liège;74 997,29
+S1: Rupture technologique;24/07/2036;ACA 3;Liège;68 168,17
+S1: Rupture technologique;25/07/2037;ACA 3;Liège;62 577,47
+S1: Rupture technologique;26/07/2038;ACA 3;Liège;57 894,78
+S1: Rupture technologique;27/07/2039;ACA 3;Liège;53 996,03
+S1: Rupture technologique;27/07/2040;ACA 3;Liège;49 007,30
+S1: Rupture technologique;28/07/2041;ACA 3;Liège;46 910,21
+S1: Rupture technologique;29/07/2042;ACA 3;Liège;46 274,55
+S1: Rupture technologique;30/07/2043;ACA 3;Liège;46 397,16
+S1: Rupture technologique;30/07/2044;ACA 3;Liège;47 142,16
+S1: Rupture technologique;31/07/2045;ACA 3;Liège;48 089,25
+S1: Rupture technologique;01/08/2046;ACA 3;Liège;49 441,83
+S1: Rupture technologique;02/08/2047;ACA 3;Liège;50 906,51
+S1: Rupture technologique;02/08/2048;ACA 3;Liège;52 585,63
+S1: Rupture technologique;03/08/2049;ACA 3;Liège;54 260,81
+S1: Rupture technologique;04/08/2050;ACA 3;Liège;53 406,28
+S3: Tous leviers;14/07/2022;ACA 3;Liège;84 813,00
+S3: Tous leviers;15/07/2023;ACA 3;Liège;86 538,59
+S3: Tous leviers;15/07/2024;ACA 3;Liège;87 964,79
+S3: Tous leviers;16/07/2025;ACA 3;Liège;88 104,56
+S3: Tous leviers;17/07/2026;ACA 3;Liège;87 883,71
+S3: Tous leviers;18/07/2027;ACA 3;Liège;87 475,62
+S3: Tous leviers;18/07/2028;ACA 3;Liège;86 990,61
+S3: Tous leviers;19/07/2029;ACA 3;Liège;86 377,29
+S3: Tous leviers;20/07/2030;ACA 3;Liège;83 501,80
+S3: Tous leviers;21/07/2031;ACA 3;Liège;80 932,59
+S3: Tous leviers;21/07/2032;ACA 3;Liège;78 434,11
+S3: Tous leviers;22/07/2033;ACA 3;Liège;75 884,93
+S3: Tous leviers;23/07/2034;ACA 3;Liège;73 387,55
+S3: Tous leviers;24/07/2035;ACA 3;Liège;65 270,21
+S3: Tous leviers;24/07/2036;ACA 3;Liège;58 524,52
+S3: Tous leviers;25/07/2037;ACA 3;Liège;52 962,19
+S3: Tous leviers;26/07/2038;ACA 3;Liège;48 263,58
+S3: Tous leviers;27/07/2039;ACA 3;Liège;44 302,19
+S3: Tous leviers;27/07/2040;ACA 3;Liège;39 369,88
+S3: Tous leviers;28/07/2041;ACA 3;Liège;36 903,11
+S3: Tous leviers;29/07/2042;ACA 3;Liège;35 688,67
+S3: Tous leviers;30/07/2043;ACA 3;Liège;35 130,56
+S3: Tous leviers;30/07/2044;ACA 3;Liège;35 085,76
+S3: Tous leviers;31/07/2045;ACA 3;Liège;35 198,89
+S3: Tous leviers;01/08/2046;ACA 3;Liège;35 628,70
+S3: Tous leviers;02/08/2047;ACA 3;Liège;36 140,46
+S3: Tous leviers;02/08/2048;ACA 3;Liège;36 793,05
+S3: Tous leviers;03/08/2049;ACA 3;Liège;37 425,67
+S3: Tous leviers;04/08/2050;ACA 3;Liège;38 002,35
+S2: Sobriété;14/07/2022;ACA 3;Liège;84 813,00
+S2: Sobriété;15/07/2023;ACA 3;Liège;84 929,44
+S2: Sobriété;15/07/2024;ACA 3;Liège;84 718,00
+S2: Sobriété;16/07/2025;ACA 3;Liège;83 218,46
+S2: Sobriété;17/07/2026;ACA 3;Liège;81 391,08
+S2: Sobriété;18/07/2027;ACA 3;Liège;79 424,03
+S2: Sobriété;18/07/2028;ACA 3;Liège;77 424,99
+S2: Sobriété;19/07/2029;ACA 3;Liège;75 354,37
+S2: Sobriété;20/07/2030;ACA 3;Liège;71 343,85
+S2: Sobriété;21/07/2031;ACA 3;Liège;67 712,68
+S2: Sobriété;21/07/2032;ACA 3;Liège;64 249,53
+S2: Sobriété;22/07/2033;ACA 3;Liège;60 853,55
+S2: Sobriété;23/07/2034;ACA 3;Liège;57 604,75
+S2: Sobriété;24/07/2035;ACA 3;Liège;50 001,84
+S2: Sobriété;24/07/2036;ACA 3;Liège;43 766,50
+S2: Sobriété;25/07/2037;ACA 3;Liège;38 674,76
+S2: Sobriété;26/07/2038;ACA 3;Liège;34 412,66
+S2: Sobriété;27/07/2039;ACA 3;Liège;30 846,09
+S2: Sobriété;27/07/2040;ACA 3;Liège;26 744,73
+S2: Sobriété;28/07/2041;ACA 3;Liège;24 493,78
+S2: Sobriété;29/07/2042;ACA 3;Liège;23 166,64
+S2: Sobriété;30/07/2043;ACA 3;Liège;22 315,44
+S2: Sobriété;30/07/2044;ACA 3;Liège;21 813,02
+S2: Sobriété;31/07/2045;ACA 3;Liège;21 421,64
+S2: Sobriété;01/08/2046;ACA 3;Liège;21 221,54
+S2: Sobriété;02/08/2047;ACA 3;Liège;21 064,55
+S2: Sobriété;02/08/2048;ACA 3;Liège;20 980,99
+S2: Sobriété;03/08/2049;ACA 3;Liège;20 878,88
+S2: Sobriété;04/08/2050;ACA 3;Liège;20 742,89
+Business As Usual;2022;ACA 3;Charleroi;53 338,72
+Business As Usual;2023;ACA 3;Charleroi;54 618,85
+Business As Usual;2024;ACA 3;Charleroi;55 929,71
+Business As Usual;2025;ACA 3;Charleroi;57 272,02
+Business As Usual;2026;ACA 3;Charleroi;58 646,55
+Business As Usual;2027;ACA 3;Charleroi;60 054,07
+Business As Usual;2028;ACA 3;Charleroi;61 495,36
+Business As Usual;2029;ACA 3;Charleroi;62 971,25
+Business As Usual;2030;ACA 3;Charleroi;64 482,56
+Business As Usual;2031;ACA 3;Charleroi;66 030,14
+Business As Usual;2032;ACA 3;Charleroi;67 614,87
+Business As Usual;2033;ACA 3;Charleroi;69 237,62
+Business As Usual;2034;ACA 3;Charleroi;70 899,33
+Business As Usual;2035;ACA 3;Charleroi;72 600,91
+Business As Usual;2036;ACA 3;Charleroi;74 343,33
+Business As Usual;2037;ACA 3;Charleroi;76 127,57
+Business As Usual;2038;ACA 3;Charleroi;77 954,63
+Business As Usual;2039;ACA 3;Charleroi;79 825,54
+Business As Usual;2040;ACA 3;Charleroi;81 741,36
+Business As Usual;2041;ACA 3;Charleroi;83 703,15
+Business As Usual;2042;ACA 3;Charleroi;85 712,03
+Business As Usual;2043;ACA 3;Charleroi;87 769,11
+Business As Usual;2044;ACA 3;Charleroi;89 875,57
+Business As Usual;2045;ACA 3;Charleroi;92 032,59
+Business As Usual;2046;ACA 3;Charleroi;94 241,37
+Business As Usual;2047;ACA 3;Charleroi;96 503,16
+Business As Usual;2048;ACA 3;Charleroi;98 819,24
+Business As Usual;2049;ACA 3;Charleroi;101 190,90
+Business As Usual;2050;ACA 3;Charleroi;103 619,48
+S0: Référence;2022;ACA 3;Charleroi;53 338,72
+S0: Référence;2023;ACA 3;Charleroi;50 358,60
+S0: Référence;2024;ACA 3;Charleroi;46 533,87
+S0: Référence;2025;ACA 3;Charleroi;42 159,56
+S0: Référence;2026;ACA 3;Charleroi;37 600,37
+S0: Référence;2027;ACA 3;Charleroi;33 059,92
+S0: Référence;2028;ACA 3;Charleroi;28 713,44
+S0: Référence;2029;ACA 3;Charleroi;24 601,08
+S0: Référence;2030;ACA 3;Charleroi;20 805,39
+S0: Référence;2031;ACA 3;Charleroi;17 354,68
+S0: Référence;2032;ACA 3;Charleroi;14 464,18
+S0: Référence;2033;ACA 3;Charleroi;12 077,81
+S0: Référence;2034;ACA 3;Charleroi;10 102,45
+S0: Référence;2035;ACA 3;Charleroi;8 477,30
+S0: Référence;2036;ACA 3;Charleroi;7 123,77
+S0: Référence;2037;ACA 3;Charleroi;6 010,91
+S0: Référence;2038;ACA 3;Charleroi;5 082,61
+S0: Référence;2039;ACA 3;Charleroi;4 318,61
+S0: Référence;2040;ACA 3;Charleroi;3 675,86
+S0: Référence;2041;ACA 3;Charleroi;3 150,05
+S0: Référence;2042;ACA 3;Charleroi;2 758,34
+S0: Référence;2043;ACA 3;Charleroi;2 439,47
+S0: Référence;2044;ACA 3;Charleroi;2 180,72
+S0: Référence;2045;ACA 3;Charleroi;1 971,61
+S0: Référence;2046;ACA 3;Charleroi;1 803,49
+S0: Référence;2047;ACA 3;Charleroi;1 669,26
+S0: Référence;2048;ACA 3;Charleroi;1 563,04
+S0: Référence;2049;ACA 3;Charleroi;1 480,03
+S0: Référence;2050;ACA 3;Charleroi;1 416,23
+S1: Rupture technologique;2022;ACA 3;Charleroi;53 338,72
+S1: Rupture technologique;2023;ACA 3;Charleroi;50 268,32
+S1: Rupture technologique;2024;ACA 3;Charleroi;46 164,83
+S1: Rupture technologique;2025;ACA 3;Charleroi;40 677,06
+S1: Rupture technologique;2026;ACA 3;Charleroi;35 159,63
+S1: Rupture technologique;2027;ACA 3;Charleroi;29 868,01
+S1: Rupture technologique;2028;ACA 3;Charleroi;24 982,20
+S1: Rupture technologique;2029;ACA 3;Charleroi;20 558,19
+S1: Rupture technologique;2030;ACA 3;Charleroi;16 031,16
+S1: Rupture technologique;2031;ACA 3;Charleroi;12 317,66
+S1: Rupture technologique;2032;ACA 3;Charleroi;9 462,63
+S1: Rupture technologique;2033;ACA 3;Charleroi;7 296,54
+S1: Rupture technologique;2034;ACA 3;Charleroi;5 653,44
+S1: Rupture technologique;2035;ACA 3;Charleroi;3 836,69
+S1: Rupture technologique;2036;ACA 3;Charleroi;2 655,02
+S1: Rupture technologique;2037;ACA 3;Charleroi;1 916,89
+S1: Rupture technologique;2038;ACA 3;Charleroi;1 455,06
+S1: Rupture technologique;2039;ACA 3;Charleroi;1 177,90
+S1: Rupture technologique;2040;ACA 3;Charleroi;969,93
+S1: Rupture technologique;2041;ACA 3;Charleroi;867,33
+S1: Rupture technologique;2042;ACA 3;Charleroi;854,47
+S1: Rupture technologique;2043;ACA 3;Charleroi;861,19
+S1: Rupture technologique;2044;ACA 3;Charleroi;876,46
+S1: Rupture technologique;2045;ACA 3;Charleroi;895,33
+S1: Rupture technologique;2046;ACA 3;Charleroi;916,15
+S1: Rupture technologique;2047;ACA 3;Charleroi;937,95
+S1: Rupture technologique;2048;ACA 3;Charleroi;960,41
+S1: Rupture technologique;2049;ACA 3;Charleroi;983,44
+S1: Rupture technologique;2050;ACA 3;Charleroi;1 007,04
+S3: Tous leviers;2022;ACA 3;Charleroi;53 338,72
+S3: Tous leviers;2023;ACA 3;Charleroi;50 242,44
+S3: Tous leviers;2024;ACA 3;Charleroi;46 185,79
+S3: Tous leviers;2025;ACA 3;Charleroi;40 886,39
+S3: Tous leviers;2026;ACA 3;Charleroi;35 626,86
+S3: Tous leviers;2027;ACA 3;Charleroi;30 608,35
+S3: Tous leviers;2028;ACA 3;Charleroi;25 967,87
+S3: Tous leviers;2029;ACA 3;Charleroi;21 734,10
+S3: Tous leviers;2030;ACA 3;Charleroi;17 290,07
+S3: Tous leviers;2031;ACA 3;Charleroi;13 580,72
+S3: Tous leviers;2032;ACA 3;Charleroi;10 562,79
+S3: Tous leviers;2033;ACA 3;Charleroi;8 185,46
+S3: Tous leviers;2034;ACA 3;Charleroi;6 372,73
+S3: Tous leviers;2035;ACA 3;Charleroi;4 419,76
+S3: Tous leviers;2036;ACA 3;Charleroi;3 143,32
+S3: Tous leviers;2037;ACA 3;Charleroi;2 293,54
+S3: Tous leviers;2038;ACA 3;Charleroi;1 724,15
+S3: Tous leviers;2039;ACA 3;Charleroi;1 352,53
+S3: Tous leviers;2040;ACA 3;Charleroi;1 045,43
+S3: Tous leviers;2041;ACA 3;Charleroi;876,65
+S3: Tous leviers;2042;ACA 3;Charleroi;815,21
+S3: Tous leviers;2043;ACA 3;Charleroi;788,44
+S3: Tous leviers;2044;ACA 3;Charleroi;779,76
+S3: Tous leviers;2045;ACA 3;Charleroi;779,51
+S3: Tous leviers;2046;ACA 3;Charleroi;785,62
+S3: Tous leviers;2047;ACA 3;Charleroi;795,06
+S3: Tous leviers;2048;ACA 3;Charleroi;806,37
+S3: Tous leviers;2049;ACA 3;Charleroi;818,81
+S3: Tous leviers;2050;ACA 3;Charleroi;831,83
+S2: Sobriété;2022;ACA 3;Charleroi;53 338,72
+S2: Sobriété;2023;ACA 3;Charleroi;49 782,52
+S2: Sobriété;2024;ACA 3;Charleroi;45 418,35
+S2: Sobriété;2025;ACA 3;Charleroi;39 938,03
+S2: Sobriété;2026;ACA 3;Charleroi;34 606,00
+S2: Sobriété;2027;ACA 3;Charleroi;29 589,32
+S2: Sobriété;2028;ACA 3;Charleroi;24 995,08
+S2: Sobriété;2029;ACA 3;Charleroi;20 832,05
+S2: Sobriété;2030;ACA 3;Charleroi;16 469,36
+S2: Sobriété;2031;ACA 3;Charleroi;12 843,38
+S2: Sobriété;2032;ACA 3;Charleroi;9 902,91
+S2: Sobriété;2033;ACA 3;Charleroi;7 557,62
+S2: Sobriété;2034;ACA 3;Charleroi;5 737,06
+S2: Sobriété;2035;ACA 3;Charleroi;3 840,46
+S2: Sobriété;2036;ACA 3;Charleroi;2 638,11
+S2: Sobriété;2037;ACA 3;Charleroi;1 883,18
+S2: Sobriété;2038;ACA 3;Charleroi;1 398,65
+S2: Sobriété;2039;ACA 3;Charleroi;1 091,22
+S2: Sobriété;2040;ACA 3;Charleroi;833,47
+S2: Sobriété;2041;ACA 3;Charleroi;694,29
+S2: Sobriété;2042;ACA 3;Charleroi;644,81
+S2: Sobriété;2043;ACA 3;Charleroi;623,17
+S2: Sobriété;2044;ACA 3;Charleroi;615,15
+S2: Sobriété;2045;ACA 3;Charleroi;613,09
+S2: Sobriété;2046;ACA 3;Charleroi;614,87
+S2: Sobriété;2047;ACA 3;Charleroi;618,20
+S2: Sobriété;2048;ACA 3;Charleroi;622,16
+S2: Sobriété;2049;ACA 3;Charleroi;626,37
+S2: Sobriété;2050;ACA 3;Charleroi;630,69
+Business As Usual;14/07/2022;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 652 985,51
+Business As Usual;15/07/2023;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 708 255,11
+Business As Usual;15/07/2024;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 765 474,39
+Business As Usual;16/07/2025;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 825 998,01
+Business As Usual;17/07/2026;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 889 337,81
+Business As Usual;18/07/2027;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 955 262,03
+Business As Usual;18/07/2028;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 023 903,93
+Business As Usual;19/07/2029;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 095 359,32
+Business As Usual;20/07/2030;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 169 740,48
+Business As Usual;21/07/2031;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 247 164,00
+Business As Usual;21/07/2032;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 327 774,11
+Business As Usual;22/07/2033;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 411 717,81
+Business As Usual;23/07/2034;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 499 122,07
+Business As Usual;24/07/2035;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 590 169,69
+Business As Usual;24/07/2036;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 684 991,23
+Business As Usual;25/07/2037;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 783 776,36
+Business As Usual;26/07/2038;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 886 706,26
+Business As Usual;27/07/2039;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 993 934,80
+Business As Usual;27/07/2040;ACA 4;Secteur aéroportuaire wallon (SOWAER);3 105 648,00
+Business As Usual;28/07/2041;ACA 4;Secteur aéroportuaire wallon (SOWAER);3 221 691,37
+Business As Usual;29/07/2042;ACA 4;Secteur aéroportuaire wallon (SOWAER);3 342 237,12
+Business As Usual;30/07/2043;ACA 4;Secteur aéroportuaire wallon (SOWAER);3 467 464,44
+Business As Usual;30/07/2044;ACA 4;Secteur aéroportuaire wallon (SOWAER);3 597 559,75
+Business As Usual;31/07/2045;ACA 4;Secteur aéroportuaire wallon (SOWAER);3 732 717,02
+Business As Usual;01/08/2046;ACA 4;Secteur aéroportuaire wallon (SOWAER);3 873 138,09
+Business As Usual;02/08/2047;ACA 4;Secteur aéroportuaire wallon (SOWAER);4 019 032,96
+Business As Usual;02/08/2048;ACA 4;Secteur aéroportuaire wallon (SOWAER);4 170 620,13
+Business As Usual;03/08/2049;ACA 4;Secteur aéroportuaire wallon (SOWAER);4 328 101,76
+Business As Usual;04/08/2050;ACA 4;Secteur aéroportuaire wallon (SOWAER);4 349 120,20
+S0: Référence;14/07/2022;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 652 985,51
+S0: Référence;15/07/2023;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 671 486,86
+S0: Référence;15/07/2024;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 685 274,12
+S0: Référence;16/07/2025;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 696 120,82
+S0: Référence;17/07/2026;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 709 296,59
+S0: Référence;18/07/2027;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 722 347,18
+S0: Référence;18/07/2028;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 738 339,84
+S0: Référence;19/07/2029;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 758 459,13
+S0: Référence;20/07/2030;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 783 774,58
+S0: Référence;21/07/2031;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 814 821,23
+S0: Référence;21/07/2032;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 853 859,20
+S0: Référence;22/07/2033;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 900 374,33
+S0: Référence;23/07/2034;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 953 648,31
+S0: Référence;24/07/2035;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 013 147,43
+S0: Référence;24/07/2036;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 077 543,31
+S0: Référence;25/07/2037;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 148 367,83
+S0: Référence;26/07/2038;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 201 232,80
+S0: Référence;27/07/2039;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 234 813,89
+S0: Référence;27/07/2040;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 248 631,61
+S0: Référence;28/07/2041;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 243 281,10
+S0: Référence;29/07/2042;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 218 968,49
+S0: Référence;30/07/2043;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 176 597,65
+S0: Référence;30/07/2044;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 117 974,93
+S0: Référence;31/07/2045;ACA 4;Secteur aéroportuaire wallon (SOWAER);2 044 935,95
+S0: Référence;01/08/2046;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 959 841,41
+S0: Référence;02/08/2047;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 864 849,74
+S0: Référence;02/08/2048;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 762 482,98
+S0: Référence;03/08/2049;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 654 857,31
+S0: Référence;04/08/2050;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 472 359,06
+S1: Rupture technologique;14/07/2022;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 652 985,51
+S1: Rupture technologique;15/07/2023;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 670 065,69
+S1: Rupture technologique;15/07/2024;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 677 669,72
+S1: Rupture technologique;16/07/2025;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 647 075,51
+S1: Rupture technologique;17/07/2026;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 612 197,83
+S1: Rupture technologique;18/07/2027;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 574 850,39
+S1: Rupture technologique;18/07/2028;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 536 756,39
+S1: Rupture technologique;19/07/2029;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 498 936,07
+S1: Rupture technologique;20/07/2030;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 404 960,02
+S1: Rupture technologique;21/07/2031;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 317 616,57
+S1: Rupture technologique;21/07/2032;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 237 243,54
+S1: Rupture technologique;22/07/2033;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 162 570,21
+S1: Rupture technologique;23/07/2034;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 092 533,96
+S1: Rupture technologique;24/07/2035;ACA 4;Secteur aéroportuaire wallon (SOWAER);879 487,06
+S1: Rupture technologique;24/07/2036;ACA 4;Secteur aéroportuaire wallon (SOWAER);708 340,73
+S1: Rupture technologique;25/07/2037;ACA 4;Secteur aéroportuaire wallon (SOWAER);571 124,57
+S1: Rupture technologique;26/07/2038;ACA 4;Secteur aéroportuaire wallon (SOWAER);456 571,94
+S1: Rupture technologique;27/07/2039;ACA 4;Secteur aéroportuaire wallon (SOWAER);362 459,10
+S1: Rupture technologique;27/07/2040;ACA 4;Secteur aéroportuaire wallon (SOWAER);242 996,68
+S1: Rupture technologique;28/07/2041;ACA 4;Secteur aéroportuaire wallon (SOWAER);167 303,50
+S1: Rupture technologique;29/07/2042;ACA 4;Secteur aéroportuaire wallon (SOWAER);120 104,42
+S1: Rupture technologique;30/07/2043;ACA 4;Secteur aéroportuaire wallon (SOWAER);91 192,18
+S1: Rupture technologique;30/07/2044;ACA 4;Secteur aéroportuaire wallon (SOWAER);74 103,46
+S1: Rupture technologique;31/07/2045;ACA 4;Secteur aéroportuaire wallon (SOWAER);62 334,19
+S1: Rupture technologique;01/08/2046;ACA 4;Secteur aéroportuaire wallon (SOWAER);57 092,40
+S1: Rupture technologique;02/08/2047;ACA 4;Secteur aéroportuaire wallon (SOWAER);55 193,63
+S1: Rupture technologique;02/08/2048;ACA 4;Secteur aéroportuaire wallon (SOWAER);55 188,26
+S1: Rupture technologique;03/08/2049;ACA 4;Secteur aéroportuaire wallon (SOWAER);56 038,28
+S1: Rupture technologique;04/08/2050;ACA 4;Secteur aéroportuaire wallon (SOWAER);54 561,31
+S3: Tous leviers;14/07/2022;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 652 985,51
+S3: Tous leviers;15/07/2023;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 669 004,29
+S3: Tous leviers;15/07/2024;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 677 985,90
+S3: Tous leviers;16/07/2025;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 653 017,60
+S3: Tous leviers;17/07/2026;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 623 455,91
+S3: Tous leviers;18/07/2027;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 590 066,99
+S3: Tous leviers;18/07/2028;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 553 737,19
+S3: Tous leviers;19/07/2029;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 515 042,55
+S3: Tous leviers;20/07/2030;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 420 758,37
+S3: Tous leviers;21/07/2031;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 329 855,37
+S3: Tous leviers;21/07/2032;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 242 570,50
+S3: Tous leviers;22/07/2033;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 159 539,97
+S3: Tous leviers;23/07/2034;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 081 407,45
+S3: Tous leviers;24/07/2035;ACA 4;Secteur aéroportuaire wallon (SOWAER);870 198,73
+S3: Tous leviers;24/07/2036;ACA 4;Secteur aéroportuaire wallon (SOWAER);699 770,95
+S3: Tous leviers;25/07/2037;ACA 4;Secteur aéroportuaire wallon (SOWAER);562 117,18
+S3: Tous leviers;26/07/2038;ACA 4;Secteur aéroportuaire wallon (SOWAER);447 317,39
+S3: Tous leviers;27/07/2039;ACA 4;Secteur aéroportuaire wallon (SOWAER);353 108,02
+S3: Tous leviers;27/07/2040;ACA 4;Secteur aéroportuaire wallon (SOWAER);235 978,65
+S3: Tous leviers;28/07/2041;ACA 4;Secteur aéroportuaire wallon (SOWAER);160 620,84
+S3: Tous leviers;29/07/2042;ACA 4;Secteur aéroportuaire wallon (SOWAER);112 731,48
+S3: Tous leviers;30/07/2043;ACA 4;Secteur aéroportuaire wallon (SOWAER);82 666,59
+S3: Tous leviers;30/07/2044;ACA 4;Secteur aéroportuaire wallon (SOWAER);64 209,04
+S3: Tous leviers;31/07/2045;ACA 4;Secteur aéroportuaire wallon (SOWAER);51 048,68
+S3: Tous leviers;01/08/2046;ACA 4;Secteur aéroportuaire wallon (SOWAER);44 360,24
+S3: Tous leviers;02/08/2047;ACA 4;Secteur aéroportuaire wallon (SOWAER);41 092,81
+S3: Tous leviers;02/08/2048;ACA 4;Secteur aéroportuaire wallon (SOWAER);39 759,08
+S3: Tous leviers;03/08/2049;ACA 4;Secteur aéroportuaire wallon (SOWAER);39 359,02
+S3: Tous leviers;04/08/2050;ACA 4;Secteur aéroportuaire wallon (SOWAER);39 178,61
+S2: Sobriété;14/07/2022;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 652 985,51
+S2: Sobriété;15/07/2023;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 631 219,52
+S2: Sobriété;15/07/2024;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 601 375,34
+S2: Sobriété;16/07/2025;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 535 715,89
+S2: Sobriété;17/07/2026;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 468 139,34
+S2: Sobriété;18/07/2027;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 400 200,37
+S2: Sobriété;18/07/2028;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 333 183,49
+S2: Sobriété;19/07/2029;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 267 891,93
+S2: Sobriété;20/07/2030;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 156 576,59
+S2: Sobriété;21/07/2031;ACA 4;Secteur aéroportuaire wallon (SOWAER);1 054 933,38
+S2: Sobriété;21/07/2032;ACA 4;Secteur aéroportuaire wallon (SOWAER);962 259,31
+S2: Sobriété;22/07/2033;ACA 4;Secteur aéroportuaire wallon (SOWAER);877 797,25
+S2: Sobriété;23/07/2034;ACA 4;Secteur aéroportuaire wallon (SOWAER);801 077,01
+S2: Sobriété;24/07/2035;ACA 4;Secteur aéroportuaire wallon (SOWAER);624 356,00
+S2: Sobriété;24/07/2036;ACA 4;Secteur aéroportuaire wallon (SOWAER);487 365,25
+S2: Sobriété;25/07/2037;ACA 4;Secteur aéroportuaire wallon (SOWAER);381 056,98
+S2: Sobriété;26/07/2038;ACA 4;Secteur aéroportuaire wallon (SOWAER);295 343,64
+S2: Sobriété;27/07/2039;ACA 4;Secteur aéroportuaire wallon (SOWAER);227 113,88
+S2: Sobriété;27/07/2040;ACA 4;Secteur aéroportuaire wallon (SOWAER);146 009,75
+S2: Sobriété;28/07/2041;ACA 4;Secteur aéroportuaire wallon (SOWAER);95 987,19
+S2: Sobriété;29/07/2042;ACA 4;Secteur aéroportuaire wallon (SOWAER);65 502,14
+S2: Sobriété;30/07/2043;ACA 4;Secteur aéroportuaire wallon (SOWAER);47 117,63
+S2: Sobriété;30/07/2044;ACA 4;Secteur aéroportuaire wallon (SOWAER);36 237,45
+S2: Sobriété;31/07/2045;ACA 4;Secteur aéroportuaire wallon (SOWAER);28 792,73
+S2: Sobriété;01/08/2046;ACA 4;Secteur aéroportuaire wallon (SOWAER);25 090,22
+S2: Sobriété;02/08/2047;ACA 4;Secteur aéroportuaire wallon (SOWAER);23 223,87
+S2: Sobriété;02/08/2048;ACA 4;Secteur aéroportuaire wallon (SOWAER);22 321,11
+S2: Sobriété;03/08/2049;ACA 4;Secteur aéroportuaire wallon (SOWAER);21 834,21
+S2: Sobriété;04/08/2050;ACA 4;Secteur aéroportuaire wallon (SOWAER);21 442,19
+Business As Usual;14/07/2022;ACA 4;Liège;1 191 913,53
+Business As Usual;15/07/2023;ACA 4;Liège;1 236 117,39
+Business As Usual;15/07/2024;ACA 4;Liège;1 282 005,37
+Business As Usual;16/07/2025;ACA 4;Liège;1 330 925,74
+Business As Usual;17/07/2026;ACA 4;Liège;1 382 383,80
+Business As Usual;18/07/2027;ACA 4;Liège;1 436 141,13
+Business As Usual;18/07/2028;ACA 4;Liège;1 492 324,12
+Business As Usual;19/07/2029;ACA 4;Liège;1 551 021,60
+Business As Usual;20/07/2030;ACA 4;Liège;1 612 338,65
+Business As Usual;21/07/2031;ACA 4;Liège;1 676 384,53
+Business As Usual;21/07/2032;ACA 4;Liège;1 743 295,93
+Business As Usual;22/07/2033;ACA 4;Liège;1 813 212,16
+Business As Usual;23/07/2034;ACA 4;Liège;1 886 252,28
+Business As Usual;24/07/2035;ACA 4;Liège;1 962 591,02
+Business As Usual;24/07/2036;ACA 4;Liège;2 042 350,68
+Business As Usual;25/07/2037;ACA 4;Liège;2 125 712,44
+Business As Usual;26/07/2038;ACA 4;Liège;2 212 848,79
+Business As Usual;27/07/2039;ACA 4;Liège;2 303 904,76
+Business As Usual;27/07/2040;ACA 4;Liège;2 399 057,24
+Business As Usual;28/07/2041;ACA 4;Liège;2 498 142,43
+Business As Usual;29/07/2042;ACA 4;Liège;2 601 323,01
+Business As Usual;30/07/2043;ACA 4;Liège;2 708 768,38
+Business As Usual;30/07/2044;ACA 4;Liège;2 820 654,99
+Business As Usual;31/07/2045;ACA 4;Liège;2 937 166,55
+Business As Usual;01/08/2046;ACA 4;Liège;3 058 494,41
+Business As Usual;02/08/2047;ACA 4;Liège;3 184 837,82
+Business As Usual;02/08/2048;ACA 4;Liège;3 316 404,32
+Business As Usual;03/08/2049;ACA 4;Liège;3 453 409,99
+Business As Usual;04/08/2050;ACA 4;Liège;3 453 409,99
+S0: Référence;14/07/2022;ACA 4;Liège;1 191 913,53
+S0: Référence;15/07/2023;ACA 4;Liège;1 235 470,56
+S0: Référence;15/07/2024;ACA 4;Liège;1 280 626,17
+S0: Référence;16/07/2025;ACA 4;Liège;1 327 339,83
+S0: Référence;17/07/2026;ACA 4;Liège;1 378 957,59
+S0: Référence;18/07/2027;ACA 4;Liège;1 431 342,71
+S0: Référence;18/07/2028;ACA 4;Liège;1 486 076,86
+S0: Référence;19/07/2029;ACA 4;Liège;1 543 222,35
+S0: Référence;20/07/2030;ACA 4;Liège;1 602 942,68
+S0: Référence;21/07/2031;ACA 4;Liège;1 665 183,59
+S0: Référence;21/07/2032;ACA 4;Liège;1 730 393,85
+S0: Référence;22/07/2033;ACA 4;Liège;1 798 479,56
+S0: Référence;23/07/2034;ACA 4;Liège;1 869 536,69
+S0: Référence;24/07/2035;ACA 4;Liège;1 943 686,57
+S0: Référence;24/07/2036;ACA 4;Liège;2 020 169,09
+S0: Référence;25/07/2037;ACA 4;Liège;2 100 950,54
+S0: Référence;26/07/2038;ACA 4;Liège;2 162 031,34
+S0: Référence;27/07/2039;ACA 4;Liège;2 202 381,35
+S0: Référence;27/07/2040;ACA 4;Liège;2 221 789,86
+S0: Référence;28/07/2041;ACA 4;Liège;2 221 042,36
+S0: Référence;29/07/2042;ACA 4;Liège;2 200 481,07
+S0: Référence;30/07/2043;ACA 4;Liège;2 161 197,42
+S0: Référence;30/07/2044;ACA 4;Liège;2 105 114,54
+S0: Référence;31/07/2045;ACA 4;Liège;2 034 164,29
+S0: Référence;01/08/2046;ACA 4;Liège;1 950 786,68
+S0: Référence;02/08/2047;ACA 4;Liège;1 857 205,47
+S0: Référence;02/08/2048;ACA 4;Liège;1 755 996,52
+S0: Référence;03/08/2049;ACA 4;Liège;1 649 320,39
+S0: Référence;04/08/2050;ACA 4;Liège;1 467 599,95
+S1: Rupture technologique;14/07/2022;ACA 4;Liège;1 191 913,53
+S1: Rupture technologique;15/07/2023;ACA 4;Liège;1 235 289,66
+S1: Rupture technologique;15/07/2024;ACA 4;Liège;1 276 627,66
+S1: Rupture technologique;16/07/2025;ACA 4;Liège;1 292 035,04
+S1: Rupture technologique;17/07/2026;ACA 4;Liège;1 304 316,76
+S1: Rupture technologique;18/07/2027;ACA 4;Liège;1 313 197,09
+S1: Rupture technologique;18/07/2028;ACA 4;Liège;1 318 724,03
+S1: Rupture technologique;19/07/2029;ACA 4;Liège;1 320 761,51
+S1: Rupture technologique;20/07/2030;ACA 4;Liège;1 267 886,94
+S1: Rupture technologique;21/07/2031;ACA 4;Liège;1 214 142,50
+S1: Rupture technologique;21/07/2032;ACA 4;Liège;1 159 613,62
+S1: Rupture technologique;22/07/2033;ACA 4;Liège;1 104 489,91
+S1: Rupture technologique;23/07/2034;ACA 4;Liège;1 049 190,39
+S1: Rupture technologique;24/07/2035;ACA 4;Liège;852 557,15
+S1: Rupture technologique;24/07/2036;ACA 4;Liège;691 927,11
+S1: Rupture technologique;25/07/2037;ACA 4;Liège;561 236,58
+S1: Rupture technologique;26/07/2038;ACA 4;Liège;450 625,98
+S1: Rupture technologique;27/07/2039;ACA 4;Liège;358 820,70
+S1: Rupture technologique;27/07/2040;ACA 4;Liège;240 964,67
+S1: Rupture technologique;28/07/2041;ACA 4;Liège;165 995,09
+S1: Rupture technologique;29/07/2042;ACA 4;Liège;119 074,07
+S1: Rupture technologique;30/07/2043;ACA 4;Liège;90 263,80
+S1: Rupture technologique;30/07/2044;ACA 4;Liège;73 202,47
+S1: Rupture technologique;31/07/2045;ACA 4;Liège;61 431,47
+S1: Rupture technologique;01/08/2046;ACA 4;Liège;56 174,14
+S1: Rupture technologique;02/08/2047;ACA 4;Liège;54 255,11
+S1: Rupture technologique;02/08/2048;ACA 4;Liège;54 227,71
+S1: Rupture technologique;03/08/2049;ACA 4;Liège;55 054,81
+S1: Rupture technologique;04/08/2050;ACA 4;Liège;53 554,26
+S3: Tous leviers;14/07/2022;ACA 4;Liège;1 191 913,53
+S3: Tous leviers;15/07/2023;ACA 4;Liège;1 221 785,67
+S3: Tous leviers;15/07/2024;ACA 4;Liège;1 249 694,52
+S3: Tous leviers;16/07/2025;ACA 4;Liège;1 252 003,95
+S3: Tous leviers;17/07/2026;ACA 4;Liège;1 251 815,02
+S3: Tous leviers;18/07/2027;ACA 4;Liège;1 249 064,15
+S3: Tous leviers;18/07/2028;ACA 4;Liège;1 243 879,05
+S3: Tous leviers;19/07/2029;ACA 4;Liège;1 236 214,73
+S3: Tous leviers;20/07/2030;ACA 4;Liège;1 177 972,69
+S3: Tous leviers;21/07/2031;ACA 4;Liège;1 120 442,94
+S3: Tous leviers;21/07/2032;ACA 4;Liège;1 063 599,51
+S3: Tous leviers;22/07/2033;ACA 4;Liège;1 007 514,26
+S3: Tous leviers;23/07/2034;ACA 4;Liège;952 458,18
+S3: Tous leviers;24/07/2035;ACA 4;Liège;769 862,47
+S3: Tous leviers;24/07/2036;ACA 4;Liège;621 804,16
+S3: Tous leviers;25/07/2037;ACA 4;Liège;502 102,94
+S3: Tous leviers;26/07/2038;ACA 4;Liège;401 550,32
+S3: Tous leviers;27/07/2039;ACA 4;Liège;318 507,07
+S3: Tous leviers;27/07/2040;ACA 4;Liège;212 241,91
+S3: Tous leviers;28/07/2041;ACA 4;Liège;144 415,25
+S3: Tous leviers;29/07/2042;ACA 4;Liège;101 662,14
+S3: Tous leviers;30/07/2043;ACA 4;Liège;75 083,67
+S3: Tous leviers;30/07/2044;ACA 4;Liège;58 968,63
+S3: Tous leviers;31/07/2045;ACA 4;Liège;47 527,63
+S3: Tous leviers;01/08/2046;ACA 4;Liège;41 909,42
+S3: Tous leviers;02/08/2047;ACA 4;Liège;39 298,53
+S3: Tous leviers;02/08/2048;ACA 4;Liège;38 360,60
+S3: Tous leviers;03/08/2049;ACA 4;Liège;38 193,86
+S3: Tous leviers;04/08/2050;ACA 4;Liège;38 183,16
+S2: Sobriété;14/07/2022;ACA 4;Liège;1 191 913,53
+S2: Sobriété;15/07/2023;ACA 4;Liège;1 200 551,81
+S2: Sobriété;15/07/2024;ACA 4;Liège;1 206 569,56
+S2: Sobriété;16/07/2025;ACA 4;Liège;1 186 682,83
+S2: Sobriété;17/07/2026;ACA 4;Liège;1 164 463,91
+S2: Sobriété;18/07/2027;ACA 4;Liège;1 140 152,98
+S2: Sobriété;18/07/2028;ACA 4;Liège;1 113 992,09
+S2: Sobriété;19/07/2029;ACA 4;Liège;1 086 078,21
+S2: Sobriété;20/07/2030;ACA 4;Liège;1 014 261,08
+S2: Sobriété;21/07/2031;ACA 4;Liège;945 337,42
+S2: Sobriété;21/07/2032;ACA 4;Liège;879 209,56
+S2: Sobriété;22/07/2033;ACA 4;Liège;815 865,11
+S2: Sobriété;23/07/2034;ACA 4;Liège;755 446,28
+S2: Sobriété;24/07/2035;ACA 4;Liège;595 798,57
+S2: Sobriété;24/07/2036;ACA 4;Liège;469 465,57
+S2: Sobriété;25/07/2037;ACA 4;Liège;369 782,81
+S2: Sobriété;26/07/2038;ACA 4;Liège;288 186,28
+S2: Sobriété;27/07/2039;ACA 4;Liège;222 503,52
+S2: Sobriété;27/07/2040;ACA 4;Liège;143 449,28
+S2: Sobriété;28/07/2041;ACA 4;Liège;94 459,70
+S2: Sobriété;29/07/2042;ACA 4;Liège;64 462,19
+S2: Sobriété;30/07/2043;ACA 4;Liège;46 310,30
+S2: Sobriété;30/07/2044;ACA 4;Liège;35 537,94
+S2: Sobriété;31/07/2045;ACA 4;Liège;28 146,70
+S2: Sobriété;01/08/2046;ACA 4;Liège;24 462,73
+S2: Sobriété;02/08/2047;ACA 4;Liège;22 600,92
+S2: Sobriété;02/08/2048;ACA 4;Liège;21 697,20
+S2: Sobriété;03/08/2049;ACA 4;Liège;21 207,20
+S2: Sobriété;04/08/2050;ACA 4;Liège;20 811,40
+Business As Usual;2022;ACA 4;Charleroi;461 071,99
+Business As Usual;2023;ACA 4;Charleroi;472 137,71
+Business As Usual;2024;ACA 4;Charleroi;483 469,02
+Business As Usual;2025;ACA 4;Charleroi;495 072,28
+Business As Usual;2026;ACA 4;Charleroi;506 954,01
+Business As Usual;2027;ACA 4;Charleroi;519 120,91
+Business As Usual;2028;ACA 4;Charleroi;531 579,81
+Business As Usual;2029;ACA 4;Charleroi;544 337,72
+Business As Usual;2030;ACA 4;Charleroi;557 401,83
+Business As Usual;2031;ACA 4;Charleroi;570 779,47
+Business As Usual;2032;ACA 4;Charleroi;584 478,18
+Business As Usual;2033;ACA 4;Charleroi;598 505,66
+Business As Usual;2034;ACA 4;Charleroi;612 869,79
+Business As Usual;2035;ACA 4;Charleroi;627 578,67
+Business As Usual;2036;ACA 4;Charleroi;642 640,55
+Business As Usual;2037;ACA 4;Charleroi;658 063,93
+Business As Usual;2038;ACA 4;Charleroi;673 857,46
+Business As Usual;2039;ACA 4;Charleroi;690 030,04
+Business As Usual;2040;ACA 4;Charleroi;706 590,76
+Business As Usual;2041;ACA 4;Charleroi;723 548,94
+Business As Usual;2042;ACA 4;Charleroi;740 914,12
+Business As Usual;2043;ACA 4;Charleroi;758 696,05
+Business As Usual;2044;ACA 4;Charleroi;776 904,76
+Business As Usual;2045;ACA 4;Charleroi;795 550,47
+Business As Usual;2046;ACA 4;Charleroi;814 643,69
+Business As Usual;2047;ACA 4;Charleroi;834 195,13
+Business As Usual;2048;ACA 4;Charleroi;854 215,82
+Business As Usual;2049;ACA 4;Charleroi;874 717,00
+Business As Usual;2050;ACA 4;Charleroi;895 710,20
+S0: Référence;2022;ACA 4;Charleroi;461 071,99
+S0: Référence;2023;ACA 4;Charleroi;436 016,30
+S0: Référence;2024;ACA 4;Charleroi;404 647,95
+S0: Référence;2025;ACA 4;Charleroi;368 780,98
+S0: Référence;2026;ACA 4;Charleroi;330 338,99
+S0: Référence;2027;ACA 4;Charleroi;291 004,47
+S0: Référence;2028;ACA 4;Charleroi;252 262,98
+S0: Référence;2029;ACA 4;Charleroi;215 236,78
+S0: Référence;2030;ACA 4;Charleroi;180 831,90
+S0: Référence;2031;ACA 4;Charleroi;149 637,65
+S0: Référence;2032;ACA 4;Charleroi;123 465,35
+S0: Référence;2033;ACA 4;Charleroi;101 894,77
+S0: Référence;2034;ACA 4;Charleroi;84 111,62
+S0: Référence;2035;ACA 4;Charleroi;69 460,86
+S0: Référence;2036;ACA 4;Charleroi;57 374,22
+S0: Référence;2037;ACA 4;Charleroi;47 417,29
+S0: Référence;2038;ACA 4;Charleroi;39 201,46
+S0: Référence;2039;ACA 4;Charleroi;32 432,55
+S0: Référence;2040;ACA 4;Charleroi;26 841,74
+S0: Référence;2041;ACA 4;Charleroi;22 238,74
+S0: Référence;2042;ACA 4;Charleroi;18 487,42
+S0: Référence;2043;ACA 4;Charleroi;15 400,23
+S0: Référence;2044;ACA 4;Charleroi;12 860,39
+S0: Référence;2045;ACA 4;Charleroi;10 771,66
+S0: Référence;2046;ACA 4;Charleroi;9 054,73
+S0: Référence;2047;ACA 4;Charleroi;7 644,28
+S0: Référence;2048;ACA 4;Charleroi;6 486,46
+S0: Référence;2049;ACA 4;Charleroi;5 536,92
+S0: Référence;2050;ACA 4;Charleroi;4 759,11
+S1: Rupture technologique;2022;ACA 4;Charleroi;461 071,99
+S1: Rupture technologique;2023;ACA 4;Charleroi;434 776,03
+S1: Rupture technologique;2024;ACA 4;Charleroi;401 042,07
+S1: Rupture technologique;2025;ACA 4;Charleroi;355 040,47
+S1: Rupture technologique;2026;ACA 4;Charleroi;307 881,07
+S1: Rupture technologique;2027;ACA 4;Charleroi;261 653,30
+S1: Rupture technologique;2028;ACA 4;Charleroi;218 032,36
+S1: Rupture technologique;2029;ACA 4;Charleroi;178 174,57
+S1: Rupture technologique;2030;ACA 4;Charleroi;137 073,08
+S1: Rupture technologique;2031;ACA 4;Charleroi;103 474,07
+S1: Rupture technologique;2032;ACA 4;Charleroi;77 629,92
+S1: Rupture technologique;2033;ACA 4;Charleroi;58 080,30
+S1: Rupture technologique;2034;ACA 4;Charleroi;43 343,56
+S1: Rupture technologique;2035;ACA 4;Charleroi;26 929,91
+S1: Rupture technologique;2036;ACA 4;Charleroi;16 413,61
+S1: Rupture technologique;2037;ACA 4;Charleroi;9 888,00
+S1: Rupture technologique;2038;ACA 4;Charleroi;5 945,96
+S1: Rupture technologique;2039;ACA 4;Charleroi;3 638,40
+S1: Rupture technologique;2040;ACA 4;Charleroi;2 032,01
+S1: Rupture technologique;2041;ACA 4;Charleroi;1 308,41
+S1: Rupture technologique;2042;ACA 4;Charleroi;1 030,35
+S1: Rupture technologique;2043;ACA 4;Charleroi;928,38
+S1: Rupture technologique;2044;ACA 4;Charleroi;900,99
+S1: Rupture technologique;2045;ACA 4;Charleroi;902,72
+S1: Rupture technologique;2046;ACA 4;Charleroi;918,26
+S1: Rupture technologique;2047;ACA 4;Charleroi;938,52
+S1: Rupture technologique;2048;ACA 4;Charleroi;960,55
+S1: Rupture technologique;2049;ACA 4;Charleroi;983,48
+S1: Rupture technologique;2050;ACA 4;Charleroi;1 007,05
+S3: Tous leviers;2022;ACA 4;Charleroi;461 071,99
+S3: Tous leviers;2023;ACA 4;Charleroi;447 218,62
+S3: Tous leviers;2024;ACA 4;Charleroi;428 291,38
+S3: Tous leviers;2025;ACA 4;Charleroi;401 013,65
+S3: Tous leviers;2026;ACA 4;Charleroi;371 640,88
+S3: Tous leviers;2027;ACA 4;Charleroi;341 002,83
+S3: Tous leviers;2028;ACA 4;Charleroi;309 858,14
+S3: Tous leviers;2029;ACA 4;Charleroi;278 827,82
+S3: Tous leviers;2030;ACA 4;Charleroi;242 785,68
+S3: Tous leviers;2031;ACA 4;Charleroi;209 412,44
+S3: Tous leviers;2032;ACA 4;Charleroi;178 970,99
+S3: Tous leviers;2033;ACA 4;Charleroi;152 025,71
+S3: Tous leviers;2034;ACA 4;Charleroi;128 949,27
+S3: Tous leviers;2035;ACA 4;Charleroi;100 336,26
+S3: Tous leviers;2036;ACA 4;Charleroi;77 966,78
+S3: Tous leviers;2037;ACA 4;Charleroi;60 014,24
+S3: Tous leviers;2038;ACA 4;Charleroi;45 767,07
+S3: Tous leviers;2039;ACA 4;Charleroi;34 600,95
+S3: Tous leviers;2040;ACA 4;Charleroi;23 736,74
+S3: Tous leviers;2041;ACA 4;Charleroi;16 205,59
+S3: Tous leviers;2042;ACA 4;Charleroi;11 069,34
+S3: Tous leviers;2043;ACA 4;Charleroi;7 582,92
+S3: Tous leviers;2044;ACA 4;Charleroi;5 240,41
+S3: Tous leviers;2045;ACA 4;Charleroi;3 521,05
+S3: Tous leviers;2046;ACA 4;Charleroi;2 450,82
+S3: Tous leviers;2047;ACA 4;Charleroi;1 794,27
+S3: Tous leviers;2048;ACA 4;Charleroi;1 398,48
+S3: Tous leviers;2049;ACA 4;Charleroi;1 165,17
+S3: Tous leviers;2050;ACA 4;Charleroi;995,45
+S2: Sobriété;2022;ACA 4;Charleroi;461 071,99
+S2: Sobriété;2023;ACA 4;Charleroi;430 667,71
+S2: Sobriété;2024;ACA 4;Charleroi;394 805,78
+S2: Sobriété;2025;ACA 4;Charleroi;349 033,06
+S2: Sobriété;2026;ACA 4;Charleroi;303 675,44
+S2: Sobriété;2027;ACA 4;Charleroi;260 047,40
+S2: Sobriété;2028;ACA 4;Charleroi;219 191,41
+S2: Sobriété;2029;ACA 4;Charleroi;181 813,72
+S2: Sobriété;2030;ACA 4;Charleroi;142 315,51
+S2: Sobriété;2031;ACA 4;Charleroi;109 595,97
+S2: Sobriété;2032;ACA 4;Charleroi;83 049,74
+S2: Sobriété;2033;ACA 4;Charleroi;61 932,14
+S2: Sobriété;2034;ACA 4;Charleroi;45 630,74
+S2: Sobriété;2035;ACA 4;Charleroi;28 557,43
+S2: Sobriété;2036;ACA 4;Charleroi;17 899,68
+S2: Sobriété;2037;ACA 4;Charleroi;11 274,16
+S2: Sobriété;2038;ACA 4;Charleroi;7 157,36
+S2: Sobriété;2039;ACA 4;Charleroi;4 610,36
+S2: Sobriété;2040;ACA 4;Charleroi;2 560,47
+S2: Sobriété;2041;ACA 4;Charleroi;1 527,49
+S2: Sobriété;2042;ACA 4;Charleroi;1 039,95
+S2: Sobriété;2043;ACA 4;Charleroi;807,34
+S2: Sobriété;2044;ACA 4;Charleroi;699,51
+S2: Sobriété;2045;ACA 4;Charleroi;646,03
+S2: Sobriété;2046;ACA 4;Charleroi;627,49
+S2: Sobriété;2047;ACA 4;Charleroi;622,95
+S2: Sobriété;2048;ACA 4;Charleroi;623,91
+S2: Sobriété;2049;ACA 4;Charleroi;627,01
+S2: Sobriété;2050;ACA 4;Charleroi;630,79

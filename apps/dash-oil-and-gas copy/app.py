@@ -6,20 +6,22 @@ import urllib.request
 import dash
 import math
 import datetime as dt
+import os 
 import pandas as pd
 from dash import html, dcc, Input, Output, State, ClientsideFunction
 
+os.chdir('C:\\Users\\Lenovo\\OneDrive\\Belgeler\\GitHub\\oil_and_gas_envisa\\apps\\dash-oil-and-gas copy')
+relative_path = os.path.join('data', 'Sowaer Data excel.xlsx')
+df_sowaer = pd.read_excel(relative_path, sheet_name = 'Sheet1')
+df_sowaer['Years'] = pd.to_datetime(df_sowaer['Years']).dt.year 
+
+# TODO: If I am going to use the csv file, should consider getting the year
+# from a string. It is the last 4 characters in the string.  
+# df_sowaer = pd.read_csv(relative_path, encoding = 'ISO-8859-1')
+# relative_path = os.path.join('data', 'Sowaer Data.csv')
+
 # Multi-dropdown options
 from controls import COUNTIES, WELL_STATUSES, WELL_TYPES, WELL_COLORS
-
-# # -----------------------------------------------READ EXCEL FILE----------------------
-# #specify the excel file path 
-# excel_file_path = "Bilan Carbone TLN ACA 5 par categorie v2.xlsx"
-# #Read all sheets from the Excel file into a dictionary of DataFrames 
-# dfs = pd.read_excel(excel_file_path, sheet_name=None)
-# #Extract a specific DataFrame from the dictionary based on sheet name 
-# df_sheet1 = dfs['Empreinte Carbone (Scope 1,2,3)']
-# # ------------------------------------------------------------------------------------
 
 # get relative data folder
 PATH = pathlib.Path(__file__).parent
@@ -111,12 +113,12 @@ app.layout = html.Div(
                         html.Div(
                             [
                                 html.H3(
-                                    "New York Oil and Gas",
+                                    "CO2 Emissions Associated With Different Scenarios",
                                     style={"margin-bottom": "0px"},
                                 ),
-                                html.H5(
-                                    "Production Overview", style={"margin-top": "0px"}
-                                ),
+                                # html.H5(
+                                #     "Production Overview", style={"margin-top": "0px"}
+                                # ),
                             ]
                         )
                     ],
@@ -155,6 +157,15 @@ app.layout = html.Div(
                             marks={i: "{}".format(i) for i in range(1960, 2021, 10)},
                             step=1,
                             value=[1990, 2010],
+                            className="dcc_control",
+                        ),
+                        dcc.RangeSlider(
+                            id="year_slider_emission",
+                            min=2022,
+                            max=2050,
+                            marks={i: "{}".format(i) for i in range(2022, 2051, 4)},
+                            step=1,
+                            value=[2022, 2050],
                             className="dcc_control",
                         ),
                         html.P("Filter by well status:", className="control_label"),
@@ -201,12 +212,42 @@ app.layout = html.Div(
                             value=list(WELL_TYPES.keys()),
                             className="dcc_control",
                         ),
+                        #Dropdowns for airports
+                        dcc.Dropdown(
+                            id = 'airport dropdown',
+                            options = [{
+                                'label': airport,
+                                'value': airport
+                            } for airport in df_sowaer['Aéroport'].unique()],
+                            value = df_sowaer['Aéroport'].unique()[0],
+                            multi = False,
+                            className = "dcc_control",
+                            #users should only select one airport
+                        ),
+                        dcc.Dropdown(
+                            id = 'scenario-dropdown',
+                            options = [{
+                                'label': scenario,
+                                'value': scenario
+                            } for scenario in df_sowaer["Scénario"].unique()], 
+                            value = df_sowaer["Scénario"].unique()[::],
+                            multi= True,
+                            className = "dcc_control",
+                        ), 
+                        dcc.RadioItems(
+                            id = 'parameter-radioItems',
+                            options = [{'label':param, 'value': param} for param in df_sowaer['Parametre'].unique()],
+                            value = df_sowaer['Parametre'].unique()[0],
+                            className = "dcc_control",
+                            inline = True,
+                        ),
                     ],
                     className="pretty_container four columns",
                     id="cross-filter-options",
                 ),
                 html.Div(
                     [
+                        # The small squares summarizing the data 
                         html.Div(
                             [
                                 html.Div(
@@ -234,10 +275,9 @@ app.layout = html.Div(
                             className="row container-display",
                         ),
                         html.Div(
-                            # [dcc.Graph(id="count_graph")],
-                            [dcc.Graph(id="main_graph")],
-                            id="mainGraphContainer",
-                            className="pretty_container",
+                            [dcc.Graph(id = "emissions_graph")],
+                            id = "emissionsGraphContainer", 
+                            className = "pretty_container",
                         ),
                     ],
                     id="right-column",
@@ -249,7 +289,16 @@ app.layout = html.Div(
         html.Div(
             [
                 html.Div(
-                    # [dcc.Graph(id="main_graph")],
+                    [dcc.Graph(id="main_graph")],
+                    id="mainGraphContainer",
+                    className="pretty_container twelve columns",
+                )
+            ],
+            className = "row flex-display",
+        ),
+        html.Div(
+            [
+                html.Div(
                     [dcc.Graph(id="count_graph")],
                     className="pretty_container seven columns ",
                 ),
@@ -367,7 +416,6 @@ app.clientside_callback(
     [Input("count_graph", "figure")],
 )
 
-
 @app.callback(
     Output("aggregate_data", "data"),
     [
@@ -443,6 +491,46 @@ def update_well_text(well_statuses, well_types, year_slider):
 def update_text(data):
     return data[0] + " mcf", data[1] + " bbl", data[2] + " bbl"
 
+#emissions graph callback
+@app.callback(
+        Output('emissions_graph', "figure"),
+        [
+            Input('airport dropdown', 'value'),
+            Input('scenario-dropdown', 'value'),
+            Input('parameter-radioItems', 'value'),
+            Input('year_slider_emission', "value"),
+        ]
+)
+def update_emissions_graph(selected_airport, selected_scenarios, selected_parameter, year_slider_emissions):
+    layout_emissions = copy.deepcopy(layout)
+    
+    # Ensure selected_scenarios is always a list
+    if isinstance(selected_scenarios, str):
+        selected_scenarios = [selected_scenarios]
+
+    filtered_df_sowaer = df_sowaer[(df_sowaer['Aéroport'] == selected_airport) & (df_sowaer["Scénario"].isin(selected_scenarios)) & (df_sowaer['Parametre'] == selected_parameter)
+                                   & (df_sowaer['Years'] >= year_slider_emissions[0]) & (df_sowaer['Years'] <= year_slider_emissions[1])]
+
+    traces = []
+    for scenario in selected_scenarios:
+        df_by_scenario = filtered_df_sowaer[filtered_df_sowaer['Scénario'] == scenario]
+        traces.append( 
+            dict(
+                type = "scatter",
+                x = df_by_scenario['Years'],
+                y = df_by_scenario['Emission'],
+                mode = 'lines',
+                name = f'{scenario}',
+                fill='tozeroy'  # Makes it a non-stacked area graph
+            )
+        )
+        
+    
+    layout_emissions['title'] = f"Emissions for selected scenarios at {selected_airport}"
+
+    figure = dict(data = traces, layout = layout_emissions)
+    return figure
+
 
 # Selectors -> main graph
 @app.callback(
@@ -454,9 +542,7 @@ def update_text(data):
     ],
     [State("lock_selector", "value"), State("main_graph", "relayoutData")],
 )
-def make_main_figure(
-    well_statuses, well_types, year_slider, selector, main_graph_layout
-):
+def make_main_figure(well_statuses, well_types, year_slider, selector, main_graph_layout):
 
     dff = filter_dataframe(df, well_statuses, well_types, year_slider)
 
