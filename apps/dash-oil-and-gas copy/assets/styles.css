@@ -41,8 +41,10 @@ body {
   margin: 0;
   padding: 10px;
   padding-bottom: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 5px;
   width: calc(100%-40px);
+  font-weight: bold; /* makes the text bold */
+  /* text-align: center; center horizontally  */
 }
 
 .rc-slider {
