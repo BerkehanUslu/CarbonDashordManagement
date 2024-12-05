@@ -1,0 +1,5 @@
+pandas==1.4.4
+dash==2.7.0
+gunicorn==20.1.0
+openpyxl
+#use python version 10

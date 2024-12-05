@@ -1,0 +1,13 @@
+prefix=g:/Shared drives/Carbon Pole/Carbon Projects and Development/Alternance Berkehan/Carbon Management Dashboard/CarbonManagementDashoard_envisa/.conda/Library
+exec_prefix=g:/Shared drives/Carbon Pole/Carbon Projects and Development/Alternance Berkehan/Carbon Management Dashboard/CarbonManagementDashoard_envisa/.conda/Library
+libdir=g:/Shared drives/Carbon Pole/Carbon Projects and Development/Alternance Berkehan/Carbon Management Dashboard/CarbonManagementDashoard_envisa/.conda/Library/lib
+sharedlibdir=g:/Shared drives/Carbon Pole/Carbon Projects and Development/Alternance Berkehan/Carbon Management Dashboard/CarbonManagementDashoard_envisa/.conda/Library/lib
+includedir=g:/Shared drives/Carbon Pole/Carbon Projects and Development/Alternance Berkehan/Carbon Management Dashboard/CarbonManagementDashoard_envisa/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

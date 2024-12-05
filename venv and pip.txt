@@ -1,0 +1,6 @@
+**USE COMMAND PROMPT**
+1. first install venv with conda command
+
+2.conda activate YOUR_ENV_NAME
+
+3.pip install -r requirements.txt

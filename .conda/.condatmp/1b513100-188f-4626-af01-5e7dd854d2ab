@@ -1,0 +1,9 @@
+prefix=g:/Shared drives/Carbon Pole/Carbon Projects and Development/Alternance Berkehan/Carbon Management Dashboard/CarbonManagementDashoard_envisa/.conda/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.0.15 
