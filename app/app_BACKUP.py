@@ -132,9 +132,9 @@ app.layout = html.Div(
             className="row flex-display",
             style={"margin-bottom": "25px"},
         ),
-        html.Div(
+        html.Div(#This div is the row flex-display for 12 columns
             [
-                html.Div(
+                html.Div(#This div is the left column with four columns
                     [
                         html.P(
                             "Filter by construction date (or select range in histogram):",
@@ -197,12 +197,14 @@ app.layout = html.Div(
                     className="pretty_container four columns",
                     id="cross-filter-options",
                 ),
-                html.Div(
+                html.Div(#This div is the right column with eight columns
                     [
-                        html.Div(
+                        html.Div(#This div is the right-top row with four columns
                             [
                                 html.Div(
                                     [html.H6(id="well_text"), html.P("No. of Wells")],
+                                    
+                                    #This is the styling for the div
                                     id="wells",
                                     className="mini_container",
                                 ),
@@ -225,7 +227,7 @@ app.layout = html.Div(
                             id="info-container",
                             className="row container-display",
                         ),
-                        html.Div(
+                        html.Div(#This div is the right-bottom row with four columns
                             [dcc.Graph(id="count_graph")],
                             id="countGraphContainer",
                             className="pretty_container",
@@ -717,4 +719,4 @@ def make_count_figure(well_statuses, well_types, year_slider):
 
 # Main
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(debug=True, port=8052)

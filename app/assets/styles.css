@@ -58,6 +58,8 @@ body {
 
 .container-display {
   display: flex;
+  flex-wrap: wrap; /* wrap the items to the next line */
+  justify-content: flex-start; /* align the items to the left */
 }
 
 #individual_graph,
@@ -102,6 +104,10 @@ body {
   padding: 15px;
   position: relative;
   box-shadow: 2px 2px 2px lightgrey;
+  flex: 1 1 calc(25% - 16px); /*Adjust for four items per row, considering the gap*/
+  box-sizing: border-box;
+  min-width: 200px; /*Prevents the items from shrinking too much*/
+  max-width: calc(25% - 16px); /*Enforce maximum width*/
 }
 
 #right-column {
