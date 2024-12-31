@@ -42,7 +42,7 @@ def connect_to_database(query):
     return result, column_names
     #This process takes time because it requires connection to a database and fetching data
 first_query = """ 
-SELECT e.*, et.*, s.*, a.name AS airport_name, sc.*, sco.scope_name, co.CO2_Emission_Source_Name AS 'CO2 Emission Source Name'
+SELECT e.*, et.*, s.*, a.name AS airport_name, sc.*, sco.scope_name, co.source_name AS co2_emission_source_name
     FROM emissions e
     JOIN emission_type et ON e.id_emission_type = et.id
     JOIN source s ON et.id_source = s.id
@@ -51,11 +51,9 @@ SELECT e.*, et.*, s.*, a.name AS airport_name, sc.*, sco.scope_name, co.CO2_Emis
     JOIN co2e_emission_sources co ON sc.id_co2e_emission_sources = co.id
     JOIN scope sco ON co.id_scope = sco.id;
 """
-#That way, we can use the same query for different graphs instead of performing different queries for each graph
 [all_data, header_names] = connect_to_database(first_query)
 all_data_df = pd.DataFrame(all_data, columns=header_names)
-# print(all_data_df.head())
-# print(all_data_df.columns)
+print(all_data_df.head())
 
 # Create global chart template
 layout = dict(
@@ -103,7 +101,6 @@ app.layout = html.Div(
                         html.Div(
                             [
                                 html.H3(
-                                    #TODO: Change the title
                                     "CO2 Emissions Associated With Different Scenarios",
                                     style={"margin-bottom": "26px",
                                            "margin-left": "50px",
@@ -145,11 +142,11 @@ app.layout = html.Div(
                                         html.Div(#This div is the filters column with four columns
                                             [
                                                 html.P(
-                                                    "Select a year:",
+                                                    "Date Range:",
                                                     className="control_label",
                                                 ),
                                                 dcc.Dropdown(
-                                                    id = 'year_dropdown',
+                                                    id = 'year dropdown',
                                                     options = [{
                                                         'label': year,
                                                         'value': year
@@ -161,7 +158,7 @@ app.layout = html.Div(
                                                 #Dropdowns for airports
                                                 html.P("Aéroports:", className="control_label"),
                                                 dcc.Dropdown(
-                                                    id = 'airport_dropdown',
+                                                    id = 'airport dropdown',
                                                     options = [{
                                                         'label': airport,
                                                         'value': airport
@@ -171,15 +168,15 @@ app.layout = html.Div(
                                                     className = "dcc_control",
                                                     #users should only select one airport
                                                 ),
-                                                html.P("Filter by:", className="control_label"),
+                                                html.P("Sub categories:", className="control_label"),
                                                 dcc.Dropdown(
-                                                    id = 'filtering_dropdown',
+                                                    id = 'sub_category-dropdown',
                                                     options = [{
-                                                        'label': filtering,
-                                                        'value': filtering
-                                                    } for filtering in ['Emission Type', 'Source Type', 'Sub Categories', 'CO2 Emission Source Name']],
-                                                    value = 'Source Type',
-                                                    multi= False,
+                                                        'label': sub_category,
+                                                        'value': sub_category
+                                                    } for sub_category in all_data_df['sub_category_name'].unique()], 
+                                                    value = all_data_df["sub_category_name"].unique()[::],
+                                                    multi= True,
                                                     className = "dcc_control",
                                                 ), 
                                                 html.P("Scope:", className="control_label"),
@@ -266,7 +263,19 @@ app.layout = html.Div(
                                     className="pretty_container seven columns ",
                                 ),
                                 html.Div(
-                                    [dcc.Graph(id="bar_graph")],
+                                    [dcc.Interval(id="interval_start_bar", interval=10, n_intervals=0),
+                                    dcc.Dropdown(
+                                    id = 'co2_emission_source-dropdown',
+                                    options = [{
+                                        'label': co2_emission_source,
+                                        'value': co2_emission_source
+                                    } for co2_emission_source in all_data_df['co2_emission_source_name'].unique()], 
+                                    value = all_data_df["co2_emission_source_name"].unique()[::],
+                                    multi= True,
+                                    className = "dcc_control",
+                                    ), 
+                                    dcc.Graph(id="bar_graph"),                            
+                                    ],
                                     className="pretty_container five columns",
                                 ),
                             ],
@@ -352,92 +361,148 @@ def update_metrics(n1, n2, n3, n4, n5):
     totalCO2 = f"{math.ceil(totalCO2)} tCO2"
     return totalCO2, 0, 0, 0, 0
 
+#emissions graph callback
+@app.callback(
+        Output('emissions_graph', "figure"),
+        [
+            Input('airport dropdown', 'value'),
+            Input('scenario-dropdown', 'value'),
+            Input('parameter-radioItems', 'value'),
+            Input('year_slider_emission', "value"),
+        ]
+)
+def update_emissions_graph(selected_airport, selected_scenarios, selected_parameter, year_slider_emissions):
+    layout_emissions = copy.deepcopy(layout)
+    
+    # Ensure selected_scenarios is always a list
+    if isinstance(selected_scenarios, str):
+        selected_scenarios = [selected_scenarios]
+
+    #Sort selected_scenarios based on the initial order of scenairos in the dropdown to 
+    #ensure that graphs don't overlap while rendering
+    initial_order = list(df_sowaer["Scénario"].unique())
+    selected_scenarios = sorted(selected_scenarios, key=lambda x: initial_order.index(x))
+
+    filtered_df_sowaer = df_sowaer[
+        (df_sowaer['Aéroport'] == selected_airport) & 
+        (df_sowaer["Scénario"].isin(selected_scenarios)) & 
+        (df_sowaer['Parametre'] == selected_parameter) & 
+        (df_sowaer['Years'] >= year_slider_emissions[0]) & 
+        (df_sowaer['Years'] <= year_slider_emissions[1])
+        ]
+
+    traces = []
+    for scenario in selected_scenarios:
+        df_by_scenario = filtered_df_sowaer[filtered_df_sowaer['Scénario'] == scenario]
+        traces.append( 
+            dict(
+                type = "scatter",
+                x = df_by_scenario['Years'],
+                y = df_by_scenario['Emission'],
+                mode = 'lines',
+                name = f'{scenario}',
+                fill='tozeroy'  # Makes it a non-stacked area graph
+            )
+        )
+    layout_emissions['title'] = {
+    'text': f"<b><span style= 'font-size:14px;'>Emissions for selected scenarios at {selected_airport}</span></b>",
+    'x': 0.5  # Center the title (optional)
+    }
+
+    figure = dict(data = traces, layout = layout_emissions)
+    return figure
+
+#TODO: add year selection to the callback. 
+#      Add if to filter by co2 emission source
+#      Add if to filter by airport 
 #Bar graph
 #It was individual graph before
 @app.callback(
         Output("bar_graph", "figure"), 
-        [Input("airport_dropdown", "value"),
-         Input("year_dropdown", "value"),
-         Input("filtering_dropdown", "value"),]
+        [Input("airport dropdown", "value"),
+         Input("co2_emission_source-dropdown", "value"),
+         Input("year_dropdown", "value"),]
         )
-def make_bar_figure(selected_airport, selected_year, selected_filter):
+def make_bar_figure(selected_airport, selected_co2_emission_source, selected_year):
     layout_bar = copy.deepcopy(layout)
 
-    filteredDf = all_data_df[ ["airport_name", "year", selected_filter,"emission_value_tCO2e"] ]
+    query = """
+        SELECT s.source_type_name, e.emission_value_tCO2e
+        FROM emissions e
+        JOIN emission_type et ON e.id_emission_type = et.id
+        JOIN source s ON et.id_source = s.id
+    """
+    result= connect_to_database(query)
+    # Create a DataFrame from the query result
+    df = pd.DataFrame(result, columns=["source_type_name","emission_value_tCO2e"])
     
-    filteredDf = filteredDf[
-        (filteredDf["year"] == selected_year) & 
-        (filteredDf["airport_name"] == selected_airport)
-    ]
-
     # Aggregate emissions data by emission type
-    filteredDf = filteredDf.groupby(selected_filter)["emission_value_tCO2e"].sum().reset_index()
+    aggregate = df.groupby("source_type_name")["emission_value_tCO2e"].sum().reset_index()
     #reset_index() is used to convert the groupby object to a DataFrame
+    
+    # Exclude the first bar by slicing the DataFrame
+    aggregate = aggregate.iloc[1:]  # Excludes the first row
     
     #NOTE: It is better to use block comments instead of git changes becase it 
     #is easier to go back and forth while trying new things.
     data = [
         dict(
             type="bar",
-            x = [row[selected_filter]], #Single value for x axis
-            y = [row["emission_value_tCO2e"]], #Corresponding emission value
-            name = "Emission Breakdown",#Legend and hoverinfo
-            hoverinfo="x + y",
-            #TODO: Solve the hoverinfo problem
+            x = aggregate["source_type_name"],
+            y = aggregate["emission_value_tCO2e"],
+            hoverinfo = "x",
+            name = "Emissions",
             # marker=dict(color=["#57c7d4", "#f9a825", "#ba68c8", "#81c784", "#ff7043", "#4dd0e1"]
             #             [: len(aggregate)])  # Ensure the color array matches the data length,
             #Colors are assigned to each bar in the bar chart
-            showlegend = True,
-            marker=dict(colors=["#fac1b7", "#a9bb95", "#92d8d8"]),
-        ) for _, row in filteredDf.iterrows()   
+        )   
     ]
          
     layout_bar = {
         "title": "Source-wise Emissions",
-        #TODO: Make this title dynamic
         "xaxis": dict(
             title= "Sources",
             tickangle= -45,
             showticklabels= False,)
         ,
-        "yaxis": {"title": "Emissions (tCO2e)"},
-        "margin": dict(l=70, r=40, t=60, b=50), #Adjust margins
-        "legend": dict(
-            title = "sources",
-            font=dict(color="#333333", size="10"), 
-            orientation="v", 
-            bgcolor="rgba(0,0,0,0)"
-        ),        
-    }
+        "yaxis": {
+            "title": "Emissions (tCO2e)"
+        },
+        "margin": dict(l=70, r=40, t=60, b=50) #Adjust margins
+        }
     
     figure = dict(data=data, layout=layout_bar)
     return figure
 
+#TODO: add year selection to the callback. 
+#      Add if to filter by co2 emission source
+#      Add if to filter by airport #Donut graph
 @app.callback(
     Output("donut_graph", "figure"),
-        [Input("airport_dropdown", "value"),
-         Input("year_dropdown", "value"),
-         Input("filtering_dropdown", "value"),]
-        )
-def make_donut_figure(selected_airport, selected_year, selected_filter):
+    [Input("interval_start", "n_intervals")], #Triggered once on Load
+)
+def make_donut_figure(n_intervals):
     layout_pie = copy.deepcopy(layout)
     
-    filteredDf = all_data_df[ ["airport_name", "year", selected_filter,"emission_value_tCO2e"] ]
-
-    filteredDf = filteredDf[
-        (filteredDf["year"] == selected_year) & 
-        (filteredDf["airport_name"] == selected_airport)
-    ]
+    query = """
+        SELECT s.source_type_name, e.emission_value_tCO2e
+        FROM emissions e
+        JOIN emission_type et ON e.id_emission_type = et.id
+        JOIN source s ON et.id_source = s.id
+    """
+    result = connect_to_database(query)
+    # Create a DataFrame from the query result
+    df = pd.DataFrame(result, columns=["source_type_name","emission_value_tCO2e"])
     
     # Aggregate emissions data by emission type
-    filteredDf = filteredDf.groupby(selected_filter)["emission_value_tCO2e"].sum().reset_index()
+    aggregate = df.groupby("source_type_name")["emission_value_tCO2e"].sum().reset_index()
     #reset_index() is used to convert the groupby object to a DataFrame
 
     data = [
         dict(
             type="pie",
-            labels=filteredDf[selected_filter],
-            values=filteredDf["emission_value_tCO2e"],
+            labels=aggregate["source_type_name"],
+            values=aggregate["emission_value_tCO2e"],
             name="Emission Breakdown",
             hoverinfo="label+value+percent",
             # textinfo="label+percent+name",
