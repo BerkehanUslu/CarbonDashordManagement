@@ -26,6 +26,17 @@ body {
   box-shadow: 2px 2px 2px lightgrey;
 }
 
+/* .pretty_container_donut {
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  margin: 10px;
+  padding: 0;
+  position: relative;
+  box-shadow: 2px 2px 2px lightgrey;
+  height: 100%;
+  margin-bottom: 20px;
+} */
+
 .bare_container {
   margin: 0 0 0 0;
   padding: 0 0 0 0;
@@ -106,7 +117,7 @@ body {
   box-shadow: 2px 2px 2px lightgrey;
   flex: 1 1 calc(25% - 16px); /*Adjust for four items per row, considering the gap*/
   box-sizing: border-box;
-  min-width: 200px; /*Prevents the items from shrinking too much*/
+  min-width: 175px; /*Prevents the items from shrinking too much*/
   max-width: calc(25% - 16px); /*Enforce maximum width*/
 }
 

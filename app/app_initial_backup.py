@@ -1,3 +1,5 @@
+#MOVE THIS FILE TO THE APP DIRECTORY TO RUN THE APP
+
 # Import required libraries
 import pickle
 import copy
@@ -61,7 +63,6 @@ dataset = trim.to_dict(orient="index")
 
 
 # Create global chart template
-
 layout = dict(
     autosize=True,
     automargin=True,
@@ -241,11 +242,11 @@ app.layout = html.Div(
         ),
         html.Div(
             [
-                html.Div(
+                html.Div(#This is the map
                     [dcc.Graph(id="main_graph")],
                     className="pretty_container seven columns",
                 ),
-                html.Div(
+                html.Div(#The scatter plot
                     [dcc.Graph(id="individual_graph")],
                     className="pretty_container five columns",
                 ),
@@ -480,6 +481,7 @@ def make_main_figure(
 
 
 # Main graph -> individual graph
+#This is the scatter plot
 @app.callback(Output("individual_graph", "figure"), [Input("main_graph", "hoverData")])
 def make_individual_figure(main_graph_hover):
 
@@ -684,6 +686,8 @@ def make_count_figure(well_statuses, well_types, year_slider):
 
     colors = []
     for i in range(1960, 2018):
+    #This highlights the years within the selected year_slider interval while 
+    # making the other years appear faded (less prominent).        
         if i >= int(year_slider[0]) and i < int(year_slider[1]):
             colors.append("rgb(123, 199, 255)")
         else:
